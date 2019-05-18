@@ -7,7 +7,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 https://github.com/TheKingOfDuck/fuzzDicts/blob/master/paramDict/parameter.txt
 ```
 
-![](media/15581539510503/15581541305146.jpg)
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/parameter.jpg)
 
 
 
