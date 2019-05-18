@@ -11,8 +11,15 @@ https://github.com/TheKingOfDuck/fuzzDicts/blob/master/paramDict/parameter.txt
 
 
 
-采集自ThinkPHP,yii2,phphub,Zblog,DzscuzX,WordPree等常见PHP框架/CMS。
+采集自`ThinkPHP`,`yii2`,`phphub`,`Zblog`,`DiscuzX`,`WordPress`等常见PHP框架/CMS。
 
 ## Xss Fuzz字典
 
+```
+https://github.com/TheKingOfDuck/easyXssPayload/blob/master/easyXssPayload.txt
+```
+
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/xss.jpg)
+
+采集自`github`。
 
