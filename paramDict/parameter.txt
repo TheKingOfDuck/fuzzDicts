@@ -10,6 +10,8 @@ athena_dir
 cmd
 x
 open
+getfile
+getpath
 visualizar
 pagina
 inc
