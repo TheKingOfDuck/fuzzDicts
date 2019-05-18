@@ -8,6 +8,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 * [目录字典](#目录字典)
 * [sql-fuzz字典](#sql-fuzz字典)
 * [ssrf-fuzz字典](#ssrf-fuzz字典)
+* [XXE字典](#XXE字典)
 
 工具推荐：[burpsuite](https://portswigger.net/burp/),[sqlmap](https://github.com/sqlmapproject/sqlmap),[xssfork](https://github.com/bsmali4/xssfork),[Wfuzz](https://github.com/xmendez/wfuzz/),[webdirscan](https://github.com/TuuuNya/webdirscan)
 
@@ -78,3 +79,13 @@ https://github.com/TheKingOfDuck/fuzzDicts/blob/master/ssrfDicts
 ![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/ssrf.jpg)
 
 由[\xeb\xfe](https://github.com/doge-dog)师傅提供。
+
+## XXE字典
+
+```
+https://github.com/TheKingOfDuck/fuzzDicts/tree/master/XXEDicts
+```
+
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/xxe.jpg)
+
+收集自百度。
