@@ -5,6 +5,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 * [Xss Fuzz字典](https://github.com/TheKingOfDuck/fuzzDicts#xss-fuzz字典)
 * [用户名字典](https://github.com/TheKingOfDuck/fuzzDicts#用户名字典)
 * [密码字典](https://github.com/TheKingOfDuck/fuzzDicts#密码字典)
+* [目录字典](https://github.com/TheKingOfDuck/fuzzDicts#目录字典)
 
 ## 参数Fuzz字典
 
@@ -44,4 +45,12 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/passwordDict
 ```
 
 ![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/password.jpg)
+
+## 目录字典
+
+```
+https://github.com/TheKingOfDuck/fuzzDicts/tree/master/directoryDicts
+```
+
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/directory.jpg
 
