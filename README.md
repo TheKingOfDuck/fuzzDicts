@@ -6,7 +6,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 * [用户名字典](https://github.com/TheKingOfDuck/fuzzDicts#用户名字典)
 * [密码字典](https://github.com/TheKingOfDuck/fuzzDicts#密码字典)
 * [目录字典](https://github.com/TheKingOfDuck/fuzzDicts#目录字典)
-* [SQL Fuzz字典](https://github.com/TheKingOfDuck/fuzzDicts#SQL Fuzz字典)
+* [sql-fuzz字典](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/README.md#sql-fuzz字典)
 
 ## 参数Fuzz字典
 
