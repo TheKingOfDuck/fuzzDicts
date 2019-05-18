@@ -8,6 +8,9 @@ Web Pentesting Fuzz 字典,一个就够了。
 * [目录字典](https://github.com/TheKingOfDuck/fuzzDicts#目录字典)
 * [sql-fuzz字典](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/README.md#sql-fuzz字典)
 
+工具推荐：[burpsuite](https://portswigger.net/burp/),[sqlmap](https://github.com/sqlmapproject/sqlmap),[xssfork](https://github.com/bsmali4/xssfork),[Wfuzz](https://github.com/xmendez/wfuzz/),[webdirscan](https://github.com/TuuuNya/webdirscan)
+
+
 ## 参数Fuzz字典
 
 ```
