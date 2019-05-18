@@ -23,3 +23,20 @@ https://github.com/TheKingOfDuck/easyXssPayload/blob/master/easyXssPayload.txt
 
 采集自`github`。
 
+## 用户名字典
+
+```
+https://github.com/TheKingOfDuck/fuzzDicts/tree/master/userNameDict
+```
+
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/username.jpg)
+
+
+## 密码字典
+
+```
+https://github.com/TheKingOfDuck/fuzzDicts/tree/master/passwordDict
+```
+
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/password.jpg)
+
