@@ -205,3 +205,8 @@
 /api/js?key=AIzaSyCD7zVe5y8TUi6TgKYvDwgpj1ihljgapLY&libraries=places
 /api/js?key=AIzaSyCD7zVe5y8TUi6TgKYvDwgpj1ihljgapLY&libraries=places&callback=googlemaps
 /api/js?key=AIzaSyCVdpkRUiXmvtnU7pn-eIDbrN5QTeUUhjQ
+/api/jump?src=wx
+/api/jump?src=qq
+/api/jump?src=wb
+/api/action/play/1/u573au666f1?callback=?
+/api/program/progrnnn
