@@ -103,7 +103,7 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/ctfDict
 收集自百度[侵删]。
 
 
-## [ctf字典](https://github.com/TheKingOfDuck/fuzzDicts/tree/master/apiDict)
+## [Api字典](https://github.com/TheKingOfDuck/fuzzDicts/tree/master/apiDict)
 
 ```
 https://github.com/TheKingOfDuck/fuzzDicts/tree/master/apiDict/api.txt
