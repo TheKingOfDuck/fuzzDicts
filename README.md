@@ -97,6 +97,6 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/XXEDicts
 https://github.com/TheKingOfDuck/fuzzDicts/tree/master/ctfDict
 ```
 
-![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/ctf.jpg)
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/ctfDict/ctf-wscan/1.gif)
 
-收集自百度。
+收集自百度[侵删]。
