@@ -65,6 +65,7 @@ def page(key,num):
 
 if __name__ == '__main__':
     key = "openapi"
+    print("it's too cxk to use...")
     for num in range(1,100):
         print("=" * 20 + str(num) + "=" * 20)
         try:
