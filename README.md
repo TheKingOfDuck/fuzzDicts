@@ -10,6 +10,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 * [ssrf-fuzz字典](#ssrf-fuzz字典)
 * [XXE字典](#XXE字典)
 * [ctf字典](#ctf字典)
+* [Api字典](#Api字典)
 
 工具推荐：[burpsuite](https://portswigger.net/burp/),[sqlmap](https://github.com/sqlmapproject/sqlmap),[xssfork](https://github.com/bsmali4/xssfork),[Wfuzz](https://github.com/xmendez/wfuzz/),[webdirscan](https://github.com/TuuuNya/webdirscan)
 
@@ -100,3 +101,14 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/ctfDict
 ![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/ctfDict/ctf-wscan/1.gif)
 
 收集自百度[侵删]。
+
+
+## [ctf字典](https://github.com/TheKingOfDuck/fuzzDicts/tree/master/apiDict)
+
+```
+https://github.com/TheKingOfDuck/fuzzDicts/tree/master/apiDict/api.txt
+```
+
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/api.jpg)
+
+钟馗采集的代码写得很cxk 我真弟弟。。。
