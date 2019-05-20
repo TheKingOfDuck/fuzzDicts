@@ -4,7 +4,7 @@ def ddddd(dic):
         o = f.readlines()
     print len(o)
     o = sorted(list(set(o)))
-    print len(o)
+    print(len(o))
     # with open(dic, 'w') as f:
     #     for i in o:
     #         f.write(i)
