@@ -11,6 +11,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 * [XXE字典](#XXE字典)
 * [ctf字典](#ctf字典)
 * [Api字典](#Api字典)
+* [路由器后台字典](#路由器后台字典)
 
 工具推荐：[burpsuite](https://portswigger.net/burp/),[sqlmap](https://github.com/sqlmapproject/sqlmap),[xssfork](https://github.com/bsmali4/xssfork),[Wfuzz](https://github.com/xmendez/wfuzz/),[webdirscan](https://github.com/TuuuNya/webdirscan)
 
@@ -112,3 +113,12 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/apiDict/api.txt
 ![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/api.jpg)
 
 钟馗采集的代码写得很cxk 我真弟弟。。。
+
+## [路由器后台字典](https://github.com/TheKingOfDuck/fuzzDicts/tree/master/routerDicts)
+
+```
+https://github.com/TheKingOfDuck/fuzzDicts/tree/master/routerDicts/pass.txt
+```
+
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/router.jpg)
+
