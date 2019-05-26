@@ -12,6 +12,9 @@ Web Pentesting Fuzz 字典,一个就够了。
 * [ctf字典](#ctf字典)
 * [Api字典](#Api字典)
 * [路由器后台字典](#路由器后台字典)
+* [文件后缀Fuzz](#文件后缀Fuzz)
+
+
 
 工具推荐：[burpsuite](https://portswigger.net/burp/),[sqlmap](https://github.com/sqlmapproject/sqlmap),[xssfork](https://github.com/bsmali4/xssfork),[Wfuzz](https://github.com/xmendez/wfuzz/),[webdirscan](https://github.com/TuuuNya/webdirscan)
 
@@ -130,7 +133,7 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/routerDicts/pass.txt
 https://github.com/TheKingOfDuck/fuzzDicts/tree/master/uploadFileExtDicts
 ```
 
-![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/fileExt.jpg)
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/fileExt.png)
 
 采集自https://github.com/c0ny1/upload-fuzz-dic-builder
 
