@@ -124,3 +124,15 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/routerDicts/pass.txt
 
 ![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/router.jpg)
 
+## [文件后缀Fuzz](https://github.com/TheKingOfDuck/fuzzDicts/tree/master/uploadFileExtDicts)
+
+```
+https://github.com/TheKingOfDuck/fuzzDicts/tree/master/uploadFileExtDicts
+```
+
+![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/fileExt.jpg)
+
+采集自https://github.com/c0ny1/upload-fuzz-dic-builder
+
+
+
