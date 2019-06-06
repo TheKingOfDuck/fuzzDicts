@@ -33,6 +33,9 @@ https://github.com/TheKingOfDuck/fuzzDicts/blob/master/paramDict/parameter.txt
 
 采集自`ThinkPHP`,`yii2`,`phphub`,`Zblog`,`DiscuzX`,`WordPress`等常见PHP框架/CMS。
 
+使用技巧：如http://127.0.0.1/1.php ,视为可疑文件，进行fuzz param 选择GET,POST AND (POST JSON) AND (GET Route) AND cookie param
+
+
 ## [Xss Fuzz字典](https://github.com/TheKingOfDuck/easyXssPayload/blob/master/easyXssPayload.txt)
 
 ```
