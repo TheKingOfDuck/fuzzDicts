@@ -13,6 +13,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 * [Api字典](#Api字典)
 * [路由器后台字典](#路由器后台字典)
 * [文件后缀Fuzz](#文件后缀Fuzz)
+* [js文件字典](#js文件字典)
 
 
 
@@ -139,6 +140,11 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/uploadFileExtDicts
 ![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/images/fileExt.png)
 
 采集自https://github.com/c0ny1/upload-fuzz-dic-builder
+
+
+## [js文件字典](https://github.com/TheKingOfDuck/fuzzDicts/tree/master/js)
+
+采集自:https://github.com/7dog7/bottleneckOsmosis
 
 
 
