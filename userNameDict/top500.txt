@@ -5,6 +5,10 @@ liwei
 lina
 test
 admin
+root
+manage
+administrator
+guest
 sever
 system
 zhangmin
