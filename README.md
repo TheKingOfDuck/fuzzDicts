@@ -21,6 +21,10 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 如果有什么的好字典或是建议欢迎提交issue给我。
 
+## log 
+
+20190615：合并了一个[国外的字典](https://github.com/emadshanab/WordLists-20111129) 感觉分类有点乱 考完试再重新整理一下咯。
+
 
 ## [参数Fuzz字典](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/paramDict)
 
