@@ -6,6 +6,7 @@
 source
 source.php
 source.php.bak
+.idea/workspace.xml
 .source.php.bak
 source.php.swp
 README.MD
