@@ -47,7 +47,7 @@ class Scan(threading.Thread):
 				print('[{}] => {}{}'.format(r.status_code, file, '\t'*5))
 				self.log[file] = r.status_code
 			else:
-				print('[{}] => {}{}'.format(r.status_code, file, '\t'*5), end='\r')
+				print('[{}] => {}{}'.format(r.status_code, file, '\t'*5))
 		else:
 			if len(r.text) != self.len:
 				print('[{}] => {}{}'.format(r.status_code, file, '\t'*5))
