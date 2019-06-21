@@ -5,6 +5,7 @@
 .git/description
 source
 source.php
+.idea/workspace.xml
 source.php.bak
 .source.php.bak
 source.php.swp
