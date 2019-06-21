@@ -7,6 +7,7 @@
 from datetime import datetime
 import re
 from config import *
+import os
 class Log:
 	def __init__(self, url, log):
 		self.url = url
@@ -27,6 +28,11 @@ class Log:
 			for file, status_code in self.log.items():
 				
 				f.write('[{}] => {}\n'.format(status_code, file))
+		print('\n' + '='*30)
+		os.system('cat output/' + self.filename)
+		print('='*30 + '\n' )
+
+
 
 	def _getname(self, url):
 		r =  re.match(r'http[s]?://([\\\.\w\d:/]+)/', url).group(1)
