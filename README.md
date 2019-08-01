@@ -1,6 +1,14 @@
 # fuzzDicts
 Web Pentesting Fuzz 字典,一个就够了。
 
+
+## log 
+
+20190801：合并了一个[r35tart](https://github.com/r35tart/RW_Password)师傅整理的很好的“强弱口令”字典（即看起来很复杂，单但实际上很多人在用的密码）
+
+20190615：合并了一个[国外的字典](https://github.com/emadshanab/WordLists-20111129) 感觉分类有点乱 考完试再重新整理一下咯。
+
+
 * [参数Fuzz字典](#参数fuzz字典)
 * [Xss Fuzz字典](#xss-fuzz字典)
 * [用户名字典](#用户名字典)
@@ -20,12 +28,6 @@ Web Pentesting Fuzz 字典,一个就够了。
 工具推荐：[burpsuite](https://portswigger.net/burp/),[sqlmap](https://github.com/sqlmapproject/sqlmap),[xssfork](https://github.com/bsmali4/xssfork),[Wfuzz](https://github.com/xmendez/wfuzz/),[webdirscan](https://github.com/TuuuNya/webdirscan)
 
 如果有什么的好字典或是建议欢迎提交issue给我。
-
-## log 
-
-20190801：合并了一个[r35tart](https://github.com/r35tart/RW_Password)师傅整理的很好的“强弱口令”字典（即看起来很复杂，单但实际上很多人在用的密码）
-
-20190615：合并了一个[国外的字典](https://github.com/emadshanab/WordLists-20111129) 感觉分类有点乱 考完试再重新整理一下咯。
 
 
 ## [参数Fuzz字典](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/paramDict)
