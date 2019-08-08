@@ -118,8 +118,7 @@ https://github.com/TheKingOfDuck/fuzzDicts/tree/master/ctfDict
 
 ![CoolCat](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/ctfDict/ctf-wscan/1.gif)
 
-收集自百度[侵删]。
-
+采集自[kingkaki](https://github.com/kingkaki/ctf-wscan)，原先收集时百度直接下载的压缩包，没看到github链接，所以没标记来源，抱歉抱歉
 
 ## [Api字典](https://github.com/TheKingOfDuck/fuzzDicts/tree/master/apiDict)
 
