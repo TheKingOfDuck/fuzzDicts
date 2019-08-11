@@ -4,7 +4,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 ## log 
 
-20190811：上传了自己平常爆破子域名用的字典(从subDomainsBrute,layer等工具中提取出来合并去重以及自己生成的部分字典)，推荐使用main.txt,另一个比较弟弟。
+20190811：上传了自己平常爆破子域名用的字典(从subDomainsBrute,layer等工具中提取出来合并去重，再和自己生成的部分字典合并)，推荐使用main.txt,另一个比较弟弟。
 
 20190801：合并了一个[r35tart](https://github.com/r35tart/RW_Password)师傅整理的很好的“强弱口令”字典（即看起来很复杂，单但实际上很多人在用的密码）
 
