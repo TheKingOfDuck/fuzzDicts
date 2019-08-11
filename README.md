@@ -4,10 +4,13 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 ## log 
 
+20190811：上传了自己平常爆破子域名用的字典(从subDomainsBrute,layer等工具中提取出来合并去重以及自己生成的部分字典)，推荐使用main.txt,另一个比较弟弟。
+
 20190801：合并了一个[r35tart](https://github.com/r35tart/RW_Password)师傅整理的很好的“强弱口令”字典（即看起来很复杂，单但实际上很多人在用的密码）
 
 20190615：合并了一个[国外的字典](https://github.com/emadshanab/WordLists-20111129) 感觉分类有点乱 考完试再重新整理一下咯。
 
+## content
 
 * [参数Fuzz字典](#参数fuzz字典)
 * [Xss Fuzz字典](#xss-fuzz字典)
@@ -22,6 +25,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 * [路由器后台字典](#路由器后台字典)
 * [文件后缀Fuzz](#文件后缀Fuzz)
 * [js文件字典](#js文件字典)
+* [子域名字典](https://github.com/TheKingOfDuck/fuzzDicts/tree/master/subdomainDicts)
 
 
 
