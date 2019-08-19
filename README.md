@@ -4,11 +4,24 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 ## log 
 
-20190811：上传了自己平常爆破子域名用的字典(从subDomainsBrute,layer等工具中提取出来合并去重，再和自己生成的部分字典合并)，推荐使用main.txt,另一个比较弟弟。
+20190819:
 
-20190801：合并了一个[r35tart](https://github.com/r35tart/RW_Password)师傅整理的很好的“强弱口令”字典（即看起来很复杂，单但实际上很多人在用的密码）
+* 在directoryDicts下新增了常见漏洞目录，推荐直接使用all.txt
 
-20190615：合并了一个[国外的字典](https://github.com/emadshanab/WordLists-20111129) 感觉分类有点乱 考完试再重新整理一下咯。
+* 在passwodDict下新增了常见安全设备/路由器/中间件/服务弱口令清单。不过还是推荐使用RW_Password这个强弱口令字典，因为等报的强压之下很多单位不得不将密码设置的复杂，为了方便记忆这些密码又基本都是有规律的，从而诞生了强弱口令，真的很好用啊。
+* 其他更新，本次更新部分字典采集自[SaiDict](https://github.com/Stardustsky/SaiDict),合并的时候仔细去重了。
+
+20190811：
+
+* 上传了自己平常爆破子域名用的字典(从subDomainsBrute,layer等工具中提取出来合并去重，再和自己生成的部分字典合并)，推荐使用main.txt,另一个比较弟弟。
+
+20190801：
+
+* 合并了一个[r35tart](https://github.com/r35tart/RW_Password)师傅整理的很好的“强弱口令”字典（即看起来很复杂，单但实际上很多人在用的密码）
+
+20190615：
+
+* 合并了一个[国外的字典](https://github.com/emadshanab/WordLists-20111129) 感觉分类有点乱 考完试再重新整理一下咯。
 
 ## content
 
