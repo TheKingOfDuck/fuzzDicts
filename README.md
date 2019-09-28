@@ -4,6 +4,10 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 ## log 
 
+20190928:
+
+* 在passwordDict下新增了从[猪猪侠师傅Github](https://github.com/ring04h)复制的wifi密码top2000字典。
+
 20190819:
 
 * 在directoryDicts下新增了常见漏洞目录，推荐直接使用all.txt
