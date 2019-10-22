@@ -4,6 +4,10 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 ## log 
 
+20191022:
+
+* 在参数字典下新增了[Arjun](https://github.com/s0md3v/Arjun)的一个工具,比原先的脚本要强大得多,字典在db目录下.
+
 20190928:
 
 * 在passwordDict下新增了从[猪猪侠师傅Github](https://github.com/ring04h)复制的wifi密码top2000字典。
