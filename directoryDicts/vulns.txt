@@ -1,14 +1,3 @@
-robots.txt
-README.md
-crossdomain.xml
-.git/config
-.git/index
-.svn/entries
-.svn/wc.db
-.DS_Store
-CVS/Root
-CVS/Entries
-.idea/workspace.xml
 www.7z
 www.rar
 www.zip
