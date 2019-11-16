@@ -178,7 +178,7 @@ install
 test
 tmp
 file
-solr/#/
+solr
 WEB-INF
 zabbix
 backup
