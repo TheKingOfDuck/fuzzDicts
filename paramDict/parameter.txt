@@ -1933,7 +1933,6 @@ profile
 install_sample
 upgrade
 next
-get_class(upgradescript)
 errusername
 errpassword
 errpwusername
@@ -3548,14 +3547,8 @@ dbprefix
 AdminName
 pwd1
 pwd2
-C(VAR_AJAX_SUBMIT)
-C(VAR_SESSION_ID)
 1
-C(VAR_PATHINFO)
-C(VAR_MODULE)
-C(VAR_GROUP)
 _URL_
-C(VAR_URL_PARAMS)
 InfoTime
 LinkUrl
 IsEnable
@@ -3571,10 +3564,6 @@ attr_picture_list
 attr_price_list
 attr_value_id_list
 IsApi
-C(VAR_IP)
-C(VAR_CITY)
-C(VAR_PROVINCE)
-C(VAR_COUNTRY)
 notify_data
 trade_status
 custom
@@ -4824,7 +4813,6 @@ varPath
 varModule
 varController
 varAction
-C(VAR_JSONP_HANDLER)
 pic1
 attach_file
 backup_name
@@ -4844,7 +4832,6 @@ logo_other
 default_district_spell
 photos
 expense
-C(VAR_LANGUAGE)
 geetest_challenge
 geetest_validate
 geetest_seccode

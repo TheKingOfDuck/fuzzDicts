@@ -388,7 +388,6 @@ admentor
 admin-bak
 admin-console
 admin-old
-admin.back
 admin_
 Admin_files
 adminweb
@@ -1825,7 +1824,6 @@ newpw
 newUser
 pass
 passwd
-passwd.adjunct
 pwd
 setpass
 setpasswd

@@ -682,7 +682,6 @@ edu
 2010
 abcupload
 add_user
-adm@in
 admin123
 administer
 adminpages
@@ -3975,7 +3974,6 @@ imagestream
 sendcloud
 mangodb
 refererlog
-cid{cid
 keyinfo
 decode
 embedslideshow
@@ -6951,7 +6949,6 @@ imageutil
 invitectl
 indonesian
 demosurveys
-original(black
 facets
 legored
 gfen
@@ -7149,7 +7146,6 @@ orderstatus
 newsetup
 accesslog
 outstore
-uz@latin
 navcate
 forumthread
 ipbchi
@@ -7166,7 +7162,6 @@ myaccountsdashlet
 protection
 urinvitecodemodule
 gritter
-product[list
 optionlog
 columnrange
 epassport
@@ -7247,7 +7242,6 @@ glyphicons
 getcookies
 huaxialongwuliu
 wplink
-bbs[page
 wechatoauth
 dataclear
 xmlsrv
@@ -7760,7 +7754,6 @@ jsbuild
 usermsg
 coreinstaller
 emailauthenticate
-original(red
 cmssource
 xsd
 questiongroups
@@ -7798,7 +7791,6 @@ databasic
 currencyrate
 blockcurrencies
 teaching
-shop[page
 activation
 txwb
 orphanedpages
@@ -8021,7 +8013,6 @@ somesubdir
 ntlm
 abnormal
 toptext
-sr@latin
 ldapconfigs
 phpgettext
 first
@@ -8061,7 +8052,6 @@ sortlist
 pbdigg
 verificate
 openpage
-shop[list
 production
 fileservice
 loadtemp
@@ -8070,7 +8060,6 @@ diymen
 binaryop
 tdata
 bootswatch
-article[page
 etalons
 zhongtong
 middle
@@ -8565,7 +8554,6 @@ abstractexpress
 activetools
 jsdiff
 basedata
-bbs[list
 esperanto
 statsbestproducts
 webad
@@ -8742,7 +8730,6 @@ bannedword
 addsoft
 persian
 egroupwa
-article[list
 parallax
 cufon
 migrat
@@ -8853,7 +8840,6 @@ inputrender
 pwclearuser
 configgroup
 creatinganewtask
-product[page
 hotword
 externallinks
 modulecache
