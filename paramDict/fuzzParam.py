@@ -38,8 +38,8 @@ class fuzz():
                     return True
             elif urlData.status_code == 503:
                 self.targetList.put(self.target)
-        except Exception, e:
-            print e
+        except Exception as e:
+            print(e)
             pass
         return False
 
@@ -62,19 +62,19 @@ def getprocess():
         if targetList.qsize() > 0:
             processnum = 100 - round(float(targetList.qsize()) / targetListCount, 2) * 100
             if processnum != 100:
-                print 'process:' + str(processnum) + '%'
+                print('process:' + str(processnum) + '%')
             else:
                 if thread._count() > 1:
-                    print 'scanthreadnum:' + str(thread._count()) + ' wait for DogScan'
+                    print('scanthreadnum:' + str(thread._count()) + ' wait for DogScan')
                 else:
-                    print 'process done'
+                    print('process done')
                     break
         else:
             if thread._count() <= 1:
-                print 'process done'
+                print('process done')
                 exit()
 
-        print 'scanthreadnum:' + str(thread._count())
+        print('scanthreadnum:' + str(thread._count()))
         progressLock.release()
         time.sleep(10)
 
@@ -102,7 +102,7 @@ if __name__ == '__main__':
             if not targetList.empty():
                 target = targetList.get()
             elif int(thread._count()) < 1:
-                print "Fuzz Param Done"
+                print("Fuzz Param Done")
                 break
             else:
                 continue
@@ -114,4 +114,4 @@ if __name__ == '__main__':
                 else:
                     time.sleep(2)
         except Exception as e:
-            print e
+            print(e)
