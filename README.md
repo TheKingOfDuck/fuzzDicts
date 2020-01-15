@@ -10,7 +10,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 * xss字典增加burp官方的210条payload，放在easyXssPayload目录下的[burpXssPayload.txt](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/easyXssPayload/burpXssPayload.txt)文件中。
 
-* 用户名字典增加了2018-2020青年安全圈黑阔们的id，数据来源[Security-Data-Analysis-and-Visualization](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)，分离了id,博客域名,github ID三个字断。放在userNameDict目录下[hineseHackerID.txt](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/userNameDict/chineseHackerID.txt),遇到shell先去撞一下,自建waf这些id都标记为黑名单关键字就对了。
+* 用户名字典增加了2018-2020青年安全圈黑阔们的id，数据来源[Security-Data-Analysis-and-Visualization](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)，分离了id,博客域名,github ID三个字段。放在userNameDict目录下[hineseHackerID.txt](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/userNameDict/chineseHackerID.txt),遇到shell先去撞一下,自建waf这些id都标记为黑名单关键字就对了。
 
 
 20200106:
