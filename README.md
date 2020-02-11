@@ -6,6 +6,10 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 不定期更新，使用前建议git pull一下，同步更新。
 
+20200211:
+
+* 新增一个lot字典，数据来源于tg群里别人发的50w互联网lot设备弱口令，由[sunu11](https://github.com/sunu11)师傅提取，在此基础上添加了国内的数据。遇到不知名的设备时一阵爆怼咯，擅用字典，事半功倍。
+
 20200115:
 
 * xss字典增加burp官方的210条payload，放在easyXssPayload目录下的[burpXssPayload.txt](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/easyXssPayload/burpXssPayload.txt)文件中。
