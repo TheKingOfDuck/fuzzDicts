@@ -6,6 +6,10 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 不定期更新，使用前建议git pull一下，同步更新。
 
+20200311:
+
+* 黑阔字典原始数据非本人采集，我只是提取了404notfound师傅的成果中的字段，采集本身就不可能全面覆盖到整个行业所有师傅，如果有想把其他师傅加入名单的师傅可以私聊我或者提交commit啊。[手动狗头]
+
 20200221:
 
 * 更新由[makoto56](https://github.com/makoto56)师傅加强后的webshell密码字典,离职学习中，毕业前不会有太多的web测试任务（也不想再继续打web了），字典更新频率会降低很多，如果有小伙伴想一起维护可以联系我啊。
@@ -18,7 +22,7 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 * xss字典增加burp官方的210条payload，放在easyXssPayload目录下的[burpXssPayload.txt](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/easyXssPayload/burpXssPayload.txt)文件中。
 
-* 用户名字典增加了2018-2020青年安全圈黑阔们的id，数据来源[Security-Data-Analysis-and-Visualization](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)，分离了id,博客域名,github ID三个字段。放在userNameDict目录下[hineseHackerID.txt](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/userNameDict/chineseHackerID.txt),遇到shell先去撞一下,自建waf这些id都标记为黑名单关键字就对了。
+* 用户名字典增加了2018-2020青年安全圈黑阔们的id，数据来源[Security-Data-Analysis-and-Visualization](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)，分离了id,博客域名,github ID三个字段。放在userNameDict目录下[chineseHackerID.txt](https://github.com/TheKingOfDuck/fuzzDicts/blob/master/userNameDict/chineseHackerID.txt),遇到shell先去撞一下,自建waf这些id都标记为黑名单关键字就对了。
 
 * 其他优化，更新。
 
