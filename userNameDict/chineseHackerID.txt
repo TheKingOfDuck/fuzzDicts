@@ -260,9 +260,6 @@ o0xmuhe
 impakho
 Nuclear Atk|lcx.cc
 lcx
-R3start
-r3start
-r35tart
 sevck
 yuanchang
 p2j
@@ -470,9 +467,6 @@ eternalsakura
 jgeek
 Mr.R|darkeyer
 darkeyer
-R4v3zn
-r4v3zn
-0nise
 yangxiaodi
 PwnGog
 pwn
