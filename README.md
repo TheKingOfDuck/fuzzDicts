@@ -6,6 +6,10 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 不定期更新，使用前建议git pull一下，同步更新。
 
+20200410:
+
+* 上传了centos和aix得/etc/目录，放在ssrfDict里面，aix和其他系统区别还是蛮大的，实战一下RFI注意区别。
+
 20200406:
 
 * 合并一个由[lewiswu1209](https://github.com/lewiswu1209)提交的pr，密码top19576。
