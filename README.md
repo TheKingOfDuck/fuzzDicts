@@ -10,6 +10,10 @@ Web Pentesting Fuzz 字典,一个就够了。
 
 * 合并一个由[lewiswu1209](https://github.com/lewiswu1209)提交的pr，密码top19576。
 
+20200410:
+
+* 新增centOS和AIX主机的/etc/目录的文件列表，放在ssrfDict目录，实战中遇到的，aix和其他系统区别还是蛮大的，作用自己琢磨。
+
 
 20200318:
 
