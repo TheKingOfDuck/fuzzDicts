@@ -1,6 +1,10 @@
 # fuzzDicts
 Web Pentesting Fuzz 字典,一个就够了。
 
+* 赞助无业憨批:
+
+![](https://raw.githubusercontent.com/TheKingOfDuck/myScripts/master/ali.jpg)
+![](https://raw.githubusercontent.com/TheKingOfDuck/myScripts/master/wx.jpg)
 
 ## log 
 
