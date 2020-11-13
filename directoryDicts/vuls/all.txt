@@ -895,6 +895,7 @@ bin/scripts/openvendor/gnete/RetrievePNBody.asp
 biztalktracking/RawCustomSearchField.asp?|-|0|404_Object_Not_Found
 biztalktracking/rawdocdata.asp?|-|0|404_Object_Not_Found
 blabla.idq
+file.jsp
 blah-whatever-badfile.jsp
 blah-whatever.jsp
 blah123.php
