@@ -8,6 +8,9 @@ Web Pentesting Fuzz 字典,一个就够了。
 
   **分享字典建议直接提交PR** 
 
+20210608:
+
+* 在rcePayloads字典下添加了一个[Remote Code Execution ( Unix and Windows )](https://ansar0047.medium.com/remote-code-execution-unix-and-windows-4ed3367158b3)中提到的所有Payload。
 
 20201202:
 
