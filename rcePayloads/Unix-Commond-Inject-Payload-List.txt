@@ -1,0 +1,74 @@
+id
+,id
+;id
+;id;
+'id'
+"id"
+''id
+''id''
+''id''&
+*id
+*id*
+**id**
+(id)
+`id`
+`id`&
+`id` &
+;id|
+;|id|
+|id
+|id|
+||id
+||id|
+||id;
+|id;
+&id
+&id&
+&&id
+&&id&&
+^id
+<id
+\id
+);id
+<id;
+);id;
+);id|
+)|id
+)|id;
+\id;
+\id|
+\id\
+(id
+)id 
+/id 
+-id
+:id
+.id
+" id
+' id
+| id
+& id
+, id
+; id
+& id &
+&& id
+|| id
+' `id`
+" `id`
+, `id`
+| `id`
+& `id`
+; `id`
+' `id` #
+" `id` #
+, `id` #
+| `id` #
+; `id` #
+;id/n
+<id\n
+\nid
+\nid\n
+a;id
+a);id
+a;id;
+a);id|

