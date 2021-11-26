@@ -2549,7 +2549,7 @@
 /images/13041.swf
 /images/2332.swf
 /images/17149.swf
-images/dropdown.gif
+/images/dropdown.gif
 /admin/z9v8conn.bak
 /manage/z9v8conn.bak
 /ad/conn.bak
@@ -6915,7 +6915,7 @@ images/dropdown.gif
 /使用手册.txt
 /说明.htm
 /说明文档.txt
-DataAddress
+/DataAddress
 /db/6k.asp6kbbs
 /link/links%23.asa
 /appoen.asa
@@ -6944,7 +6944,7 @@ DataAddress
 /zm_marry.asa
 /blogdata/acblog.asa
 /db/#ewebeditor.asa
-DirFile
+/DirFile
 /Database
 /uploadface
 /Photo
