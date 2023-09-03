@@ -67,6 +67,7 @@ index.php.zip
 index.php.7z
 index.php.tar.gz
 index.php.txt
+index.phps
 login.php
 register
 register.php
